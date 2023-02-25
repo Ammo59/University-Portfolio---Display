@@ -1,5 +1,5 @@
 # University-Portfolio---Display
-To preserve and display the knowledge obtained in my undergraduate career. Code access is publicly hidden to prevent academic dishonesty violations.
+To preserve and display the knowledge obtained in my undergraduate career. Code access is publicly hidden to prevent academic dishonesty violations. Access may be granted at request.
 
 ##### Table of Contents  
   * [CECS 277 (Object-Oriented Application Development - Python)](#1-cecs-277-object-oriented-application-development---python)
