@@ -1,6 +1,3 @@
-# University-Portfolio---Display
-To preserve and display the knowledge obtained in my undergraduate career. Code access is publicly hidden to prevent academic dishonesty violations. Access may be granted at request.
-
 ##### Table of Contents  
   * [CECS 277 (Object-Oriented Application Development - Python)](#1-cecs-277-object-oriented-application-development---python)
   
@@ -32,7 +29,8 @@ Currently in progress, will update as projects are completed.
 | 3 | Hangman | `Dictionaries` `Lists` | ![maddy-firestone-maddy-firestone-hang-man](https://user-images.githubusercontent.com/84933358/221104161-220a1dd8-b1b2-4b67-a4ac-b9b6f3e0820b.jpg) |
 | 4 | Maze Solver | `File I/O Reading` `File I/O Writing` | ![Tremaux_Maze_Solving_Algorithm](https://user-images.githubusercontent.com/84933358/221102980-db8b6c64-250d-4553-bf7f-3b35a1bb033e.gif) |
 | 5 | Tasklist UI | `Classes` `Objects` `Unit-Tests` `Exceptions`| ![daily_routine](https://user-images.githubusercontent.com/84933358/221102376-518645d6-6a9b-4e3d-8294-5d8ef40869e1.gif) |
-| 6 | Dice Game | `Composition` `Inheritance` `Dunder Methods`| ![Dice_Game](https://user-images.githubusercontent.com/84933358/221969677-1a8de6c7-f803-4c59-ab09-04d7d65d8f9f.png) |
+| 6 | Dice Game | `Composition` `Dunder Methods`| ![Dice_Game](https://user-images.githubusercontent.com/84933358/221969677-1a8de6c7-f803-4c59-ab09-04d7d65d8f9f.png) |
+| 7 | Secret Decoder | `Access Control` `Inheritance` `Encryption/Decryption`| ![Atbash_Cipher](https://user-images.githubusercontent.com/84933358/224256227-9b41c94c-31a3-45e8-b609-28e33ded4818.gif) |
 
 ------
 
