@@ -31,6 +31,7 @@ Currently in progress, will update as projects are completed.
 | 5 | Tasklist UI | `Classes` `Objects` `Unit-Tests` `Exceptions`| ![daily_routine](https://user-images.githubusercontent.com/84933358/221102376-518645d6-6a9b-4e3d-8294-5d8ef40869e1.gif) |
 | 6 | Dice Game | `Composition` `Dunder Methods`| ![Dice_Game](https://user-images.githubusercontent.com/84933358/221969677-1a8de6c7-f803-4c59-ab09-04d7d65d8f9f.png) |
 | 7 | Secret Decoder | `Access Control` `Inheritance` `Encryption/Decryption`| ![Atbash_Cipher](https://user-images.githubusercontent.com/84933358/224256227-9b41c94c-31a3-45e8-b609-28e33ded4818.gif) |
+| 8 | Pokemon Gym Battle | `Abstraction` `Properties` `Decorators` `Game Development` | ![pokemon-battle](https://user-images.githubusercontent.com/84933358/226147111-fb2514e9-abd3-4d99-8abd-5f47012e8ac2.gif) |
 
 ------
 
