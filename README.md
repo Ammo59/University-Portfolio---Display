@@ -13,7 +13,7 @@
   
   * [CS 11 (Intro to Computer Science - C++)](#1-cs-11-intro-to-computer-science---c)
   
-  * [CS 22 (Data Structures and Algorithms - Java)](#2-cs-22-data-structures-and-algorithms---java)
+  * [CS 22 (Data Structures and Algorithms - C++)](#2-cs-22-data-structures-and-algorithms---c)
 
 # University Portfolio
 This repository contains the code from undergraduate programming courses. Will continue to update as more are taken!
@@ -112,7 +112,10 @@ Homework:
 
 ------
 
-#### 2. CS 22 (Data Structures and Algorithms - Java) 
+#### 2. CS 22 (Data Structures and Algorithms - C++) 
 Will take beginning March 2023, completion is projected to be June 2023
-
+| Project No. | Name | Figure |
+| :------------: | :-------------: | :-------------: |
+| 1 | Debugging Structures | ![Desired Console Output](https://user-images.githubusercontent.com/84933358/226327633-69bc38df-00b5-4b1b-94c2-70059eed1520.png) |
+| 2 | OOP Poker Game | ![OOP_Poker](https://user-images.githubusercontent.com/84933358/226327336-a041c117-da8a-4071-a8d0-e1c5db0d7159.png) |
 ------
