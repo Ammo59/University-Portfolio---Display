@@ -122,4 +122,6 @@ Will take beginning March 2023, completion is projected to be June 2023
 | :------------: | :-------------: | :-------------: |
 | 1 | Debugging Structures | ![Desired Console Output](https://user-images.githubusercontent.com/84933358/226327633-69bc38df-00b5-4b1b-94c2-70059eed1520.png) |
 | 2 | OOP Poker Game | ![OOP_Poker](https://user-images.githubusercontent.com/84933358/226327336-a041c117-da8a-4071-a8d0-e1c5db0d7159.png) |
+| 3 | Sorting Restaurant Menu | ![MenuSorting](https://user-images.githubusercontent.com/84933358/231871419-ce466ae1-f4a7-4fc6-acae-ad23afe6e502.png) |
+| 4 | Bubble and Selection Sort | ![Sorting](https://user-images.githubusercontent.com/84933358/231871481-568119ad-836c-4124-98ec-d1af8bef18f2.png) |
 ------
