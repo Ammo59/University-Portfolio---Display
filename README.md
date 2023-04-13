@@ -32,6 +32,10 @@ Currently in progress, will update as projects are completed.
 | 6 | Dice Game | `Composition` `Dunder Methods`| ![Dice_Game](https://user-images.githubusercontent.com/84933358/221969677-1a8de6c7-f803-4c59-ab09-04d7d65d8f9f.png) |
 | 7 | Secret Decoder | `Access Control` `Inheritance` `Encryption/Decryption`| ![Atbash_Cipher](https://user-images.githubusercontent.com/84933358/224256227-9b41c94c-31a3-45e8-b609-28e33ded4818.gif) |
 | 8 | Pokemon Gym Battle | `Abstraction` `Properties` `Decorators` `Game Development` | ![pokemon-battle](https://user-images.githubusercontent.com/84933358/226147111-fb2514e9-abd3-4d99-8abd-5f47012e8ac2.gif) |
+| 9 | Escape Room | `Interfaces` `Method Overriding` `Super()`|![Escape Room](https://user-images.githubusercontent.com/84933358/231862128-a05a34ca-994d-44c7-a179-884348ee9d84.gif) |
+| 10 | Minotaur's Maze | `Singleton` `Class Variables` `Design Patterns`| ![MinMaze](https://user-images.githubusercontent.com/84933358/231863579-d3f98bf0-c6b3-44d7-b622-2ffe3b924a9b.gif) |
+| 11 | Monster Trials | `Factory Method` `Abstraction` `Decorators` | ![crystal-clash](https://user-images.githubusercontent.com/84933358/231864164-bdcd2cc4-edef-47b3-a6a1-eb86f5e479f8.gif) |
+
 
 ------
 
