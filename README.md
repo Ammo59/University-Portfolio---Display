@@ -1,4 +1,4 @@
-##### Table of Contents  
+# Table of Contents  
   * [CECS 277 (Object-Oriented Application Development - Python)](#1-cecs-277-object-oriented-application-development---python)
   
   * [MAE 205 (Computer Methods - MATLAB)](#2-mae-205-computer-methods---matlab-classworkhomework)
