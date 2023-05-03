@@ -35,6 +35,9 @@ Currently in progress, will update as projects are completed.
 | 9 | Escape Room | `Interfaces` `Method Overriding` `Super()`|![Escape Room](https://user-images.githubusercontent.com/84933358/231862128-a05a34ca-994d-44c7-a179-884348ee9d84.gif) |
 | 10 | Minotaur's Maze | `Singleton` `Class Variables` `Design Patterns`| ![MinMaze](https://user-images.githubusercontent.com/84933358/231863579-d3f98bf0-c6b3-44d7-b622-2ffe3b924a9b.gif) |
 | 11 | Monster Trials | `Factory Method` `Abstraction` `Decorators` | ![crystal-clash](https://user-images.githubusercontent.com/84933358/231864164-bdcd2cc4-edef-47b3-a6a1-eb86f5e479f8.gif) |
+| 12 | Monster Creator | `Decorator` `Design Pattern`| ![Goblin](https://user-images.githubusercontent.com/84933358/235840667-ebe5a503-993a-492a-8701-3527ba9e6f10.gif)|
+| 13 | Tasklist Iterator | `Iterator` `Design Pattern`| ![Tasklist](https://user-images.githubusercontent.com/84933358/235840905-0b6c8088-62f3-4bc6-8692-2f57fc599aed.gif) |
+| 14 | Puppy Simulation | `State` `Design Pattern`| ![Pup](https://user-images.githubusercontent.com/84933358/235841244-4a162f70-d52b-49e5-ad93-031916a7d175.gif) |
 
 
 ------
