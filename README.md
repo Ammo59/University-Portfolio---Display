@@ -127,4 +127,9 @@ Will take beginning March 2023, completion is projected to be June 2023
 | 2 | OOP Poker Game | ![OOP_Poker](https://user-images.githubusercontent.com/84933358/226327336-a041c117-da8a-4071-a8d0-e1c5db0d7159.png) |
 | 3 | Sorting Restaurant Menu | ![MenuSorting](https://user-images.githubusercontent.com/84933358/231871419-ce466ae1-f4a7-4fc6-acae-ad23afe6e502.png) |
 | 4 | Bubble and Selection Sort | ![Sorting](https://user-images.githubusercontent.com/84933358/231871481-568119ad-836c-4124-98ec-d1af8bef18f2.png) |
+| 5 | Linked List Node Deletion | ![Linked List Node Deletion](https://github.com/Ammo59/University-Portfolio/assets/84933358/b99784ec-7e12-4ac4-bed6-405c29f1e071) |
+| 6 | Does Not Exist | N/A |
+| 7 | Recursion Diamond |![Recursive Diamond](https://github.com/Ammo59/University-Portfolio/assets/84933358/ec8d1489-2aa2-4683-bd11-71557d6ab7db) |
+| 8 | Job Queue | ![Screenshot 2023-05-16 170623](https://github.com/Ammo59/University-Portfolio/assets/84933358/8b6c7485-b22f-48a4-814c-01918766143f) |
+
 ------
