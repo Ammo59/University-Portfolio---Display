@@ -128,8 +128,10 @@ Will take beginning March 2023, completion is projected to be June 2023
 | 3 | Sorting Restaurant Menu | ![MenuSorting](https://user-images.githubusercontent.com/84933358/231871419-ce466ae1-f4a7-4fc6-acae-ad23afe6e502.png) |
 | 4 | Bubble and Selection Sort | ![Sorting](https://user-images.githubusercontent.com/84933358/231871481-568119ad-836c-4124-98ec-d1af8bef18f2.png) |
 | 5 | Linked List Node Deletion | ![Linked List Node Deletion](https://github.com/Ammo59/University-Portfolio/assets/84933358/b99784ec-7e12-4ac4-bed6-405c29f1e071) |
-| 6 | Does Not Exist | N/A |
+| 6 | Quiz instead of Lab | N/A |
 | 7 | Recursion Diamond |![Recursive Diamond](https://github.com/Ammo59/University-Portfolio/assets/84933358/ec8d1489-2aa2-4683-bd11-71557d6ab7db) |
 | 8 | Job Queue | ![Screenshot 2023-05-16 170623](https://github.com/Ammo59/University-Portfolio/assets/84933358/8b6c7485-b22f-48a4-814c-01918766143f) |
+| 9 | Quiz instead of Lab | N/A |
+| 10 | Constitution Binary Search Tree | ![CBST](https://github.com/Ammo59/University-Portfolio/assets/84933358/73d38b0d-eb33-4db5-9ab2-76cd69ac4660) |
 
 ------
