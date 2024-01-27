@@ -42,7 +42,7 @@ This repository contains the code from undergraduate programming courses. Will c
 - [Repository](https://github.com/wrs225/cs229-final-project)
 - Paper: [Machine_Learning_Final_Report.pdf](https://github.com/Ammo59/University-Portfolio/files/13633202/Machine_Learning_Final_Report.pdf)
 
-![highway-env](https://github.com/Ammo59/University-Portfolio/assets/84933358/72be725f-b661-4d88-8b76-e02b383399bc.gif)
+[![highway-env](https://github.com/Ammo59/University-Portfolio/assets/84933358/72be725f-b661-4d88-8b76-e02b383399bc.gif)](https://raw.githubusercontent.com/eleurent/highway-env/gh-media/docs/media/highway-env.gif?raw=true)
 - GIF Credits ([Farama Foundation](https://github.com/Farama-Foundation/HighwayEnv))
 
 ### Quarter 2
