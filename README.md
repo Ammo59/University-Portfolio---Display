@@ -1,4 +1,8 @@
-# Table of Contents  
+# Table of Contents
+  * [ME 218A (Smart Product Design Fundamentals - C)](#1-me-218A-smart-product-design-fundamentals---c)
+
+  * [CS 229 (Machine Learning - Python)](#2-cs-229-machine-learning---python)
+
   * [CECS 277 (Object-Oriented Application Development - Python)](#1-cecs-277-object-oriented-application-development---python)
   
   * [MAE 205 (Computer Methods - MATLAB)](#2-mae-205-computer-methods---matlab-classworkhomework)
@@ -16,9 +20,43 @@
   * [CS 22 (Data Structures and Algorithms - C++)](#2-cs-22-data-structures-and-algorithms---c)
 
 # University Portfolio
-This repository contains the code from undergraduate programming courses. Will continue to update as more are taken!
+This repository contains the code from undergraduate programming courses. Will continue to update!
 
-## From California State University, Long Beach
+## Stanford University (in progress)
+### Quarter 1
+#### 1. ME 218A (Smart Product Design Fundamentals - C)
+| Lab No. | Name | Key Topics | Report PDF |
+| :------------: | :-------------: | :-------------: | :-------------: |
+| 1 | Photo-Transistor Circuits | `Analog to Digital` `Photo-Transistors & IR` `Op-Amps` `Comparators` | [Lab 1 Report](https://docs.google.com/document/d/1CNv0PQJ26Gi1o3UUDWH5SHgWODAiiL0IG_7UpYLrHfU/edit?usp=sharing) |
+| 2 | PIC32 Microcontroller Programming | `PIC32` `SPI` `Hardware Abstraction Layers` `Bitshifting` `Octal Buffers` | [Lab 2 Report](https://docs.google.com/document/d/16L0v3I46lQxieiru__-UeomoFq3WAxmcgbE3Ms6VyiA/edit?usp=sharing) |
+| 3 | Events and Services Framework | `Event-Driven System` `LED Matrix` | [Lab 3 Report](https://docs.google.com/document/d/1vJnUY5aw_GdmN7A_Yg-qnzxwIOXUwUWKEvwwmFHants/edit?usp=sharing) |
+| 4 | Morse Code Receiver | `Building a Complete Application` `Sensing` `Data Input to Microcontroller` `Data Interpretation` `Output Generation` | [Lab 4 Report](https://docs.google.com/document/d/1Zv3tIhZU83p3BRoKgcvMrfnNQmfNhgKaBVhIcS8iEU4/edit?usp=sharing) |  
+  
+##### ME 218A Final Project
+- Click link to view project design, fabrication, and repository: [Project Website](https://me218team9.weebly.com/)
+
+#### 2. CS 229 (Machine Learning - Python)
+##### Psets (Hidden)  
+
+##### Final Research Project: Applying Reinforcement and Imitation Learning to Autonomous Driving
+- [Repository](https://github.com/wrs225/cs229-final-project)
+- Paper: [Machine_Learning_Final_Report.pdf](https://github.com/Ammo59/University-Portfolio/files/13633202/Machine_Learning_Final_Report.pdf)
+
+![highway-env](https://github.com/Ammo59/University-Portfolio/assets/84933358/72be725f-b661-4d88-8b76-e02b383399bc.gif)
+- GIF Credits ([Farama Foundation](https://github.com/Farama-Foundation/HighwayEnv))
+
+### Quarter 2
+#### 1. ME 218B (Smart Product Design Applications - C)
+
+
+#### 2. CS 205L (Continuous Mathematical Methods with an Emphasis on Machine Learning)
+
+### Quarter 3
+#### 1. ME 218C (Smart Product Design Practice - C)
+
+#### 2. ME 203 (Design and Manufacturing)
+
+## California State University, Long Beach
 #### 1. CECS 277 (Object-Oriented Application Development - Python)
 Currently in progress, will update as projects are completed.
 
@@ -100,7 +138,7 @@ Homework:
 | 10 | Principles and Case Studies |`Satellite's Altitude Control` `Lateral/Longitudinal Control of Boeing` `Fuel-Air Ratio in Engine` `Quadcopter Drone` | ![ADM](https://user-images.githubusercontent.com/84933358/218882698-bf8e2e96-9374-461d-bd65-01acd0b48359.png) |
 ------
 
-## From Long Beach City College
+## Long Beach City College
 
 
 #### 1. CS 11 (Intro to Computer Science - C++)
