@@ -32,7 +32,7 @@ This repository contains the code from undergraduate programming courses. Will c
 | 3 | Events and Services Framework | `Event-Driven System` `LED Matrix` | [Lab 3 Report](https://docs.google.com/document/d/1vJnUY5aw_GdmN7A_Yg-qnzxwIOXUwUWKEvwwmFHants/edit?usp=sharing) |
 | 4 | Morse Code Receiver | `Building a Complete Application` `Sensing` `Data Input to Microcontroller` `Data Interpretation` `Output Generation` | [Lab 4 Report](https://docs.google.com/document/d/1Zv3tIhZU83p3BRoKgcvMrfnNQmfNhgKaBVhIcS8iEU4/edit?usp=sharing) |  
   
-#### ME 218A Final Project
+##### ME 218A Final Project
 - Click link to view project design, fabrication, and repository: [Project Website](https://me218team9.weebly.com/)
 
 #### 2. CS 229 (Machine Learning - Python)
