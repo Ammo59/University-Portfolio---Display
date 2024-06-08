@@ -35,7 +35,7 @@ This repository contains projects from undergraduate & graduate courses. Will co
 
 #### 2. CS 529 (Robotics & Autonomous Systems Seminar)
 
-### Quarter 4
+### Quarter 4 (in Progress)
 #### 1. ME 203 (Design and Manufacturing)
 
 #### 2. CS 237A (Principles of Robot Autonomoy I - Python & ROS)
@@ -48,8 +48,9 @@ This repository contains projects from undergraduate & graduate courses. Will co
 - [ME 218C Course Description](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=ME218C&collapse=)
 
 ##### ME 218C Final Project
-`RF-Controlled Boat` ``
-- [Project Website](https://sites.google.com/stanford.edu/wacked/home)
+![SailAcross](https://github.com/Ammo59/University-Portfolio---Display/assets/84933358/74d7c819-c3d2-454e-bd1f-6dc5d5f6c589)
+`RF-Controlled Boat` `Asynchronous Communication` `Waterproofing`
+- [Project Website](https://sites.google.com/stanford.edu/me218c-piratesbooty/home)
 
 ##### ME 218C Labs
 | Lab No. | Name | Key Topics | Report PDF |
