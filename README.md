@@ -72,9 +72,9 @@ This repository contains projects from undergraduate & graduate courses. Will co
 
 
 #### 2. MS&E 297 (Hacking for Defense)
-- Business Class: Solving National Security issues with the Lean Launchpad\
-- [Course Description](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=MS%26E297)
-`Startup` `Mission Model Canvas` `Beneficiary Discovery`\
+- Business Class: Solving National Security issues with the Lean Launchpad
+- [Course Description](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=MS%26E297) \
+`Startup` `Mission Model Canvas` `Beneficiary Discovery`
 
 ##### H4D Final Presentation
 - [Recording](https://stanford.zoom.us/rec/component-page?action=viewdetailpage&sharelevel=meeting&useWhichPasswd=meeting&clusterId=aw1&componentName=need-password&meetingId=7NwsPPp3TKx4SYsF2baynVS4k4sIzlIa4OxVn3q0-ceS96etSTMSSjimFDSWfn-g.IvP6bPc1tJWLrArV&originRequestUrl=https%3A%2F%2Fstanford.zoom.us%2Frec%2Fshare%2FXB87uYJvFxvJTBjfvtVCaF3IBihlizlckZvDjZ4dSTAJPp1Jb6IJmGJZ5vixLgtY.u5t19We9RMixQAA0)
