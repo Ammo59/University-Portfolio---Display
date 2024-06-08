@@ -1,4 +1,8 @@
 # Table of Contents
+  * [ME 218B (Smart Product Design Applications - C)](#1-me-218b-smart-product-design-applications---c)
+
+  * [CME 106 (Probability and Statistics for Engineers - MATLAB)](#2-cme-106-probability-and-statistics-for-engineers---matlab)
+  
   * [ME 218A (Smart Product Design Fundamentals - C)](#1-me-218A-smart-product-design-fundamentals---c)
 
   * [CS 229 (Machine Learning - Python)](#2-cs-229-machine-learning---python)
@@ -20,42 +24,89 @@
   * [CS 22 (Data Structures and Algorithms - C++)](#2-cs-22-data-structures-and-algorithms---c)
 
 # University Portfolio
-This repository contains the code from undergraduate programming courses. Will continue to update!
+This repository contains projects from undergraduate & graduate courses. Will continue to update!
 
 ## Stanford University (in progress)
+
+### Quarter 5
+#### 1. CS 224N (NLP with Deep Learning - Python)
+
+#### 2. CS 205L (Continuous Mathematical Methods with an Emphasis on Machine Learning)
+
+#### 2. CS 529 (Robotics & Autonomous Systems Seminar)
+
+### Quarter 4
+#### 1. ME 203 (Design and Manufacturing)
+
+#### 2. CS 237A (Principles of Robot Autonomoy I - Python & ROS)
+- [CS 237A Course Website](https://stanfordasl.github.io//PoRA-I/aa274a_aut2324/)
+
+#### 3. CS 528 (Machine Learning Systems Seminar)
+
+### Quarter 3
+#### 1. ME 218C (Smart Product Design Practice - C)
+- [ME 218C Course Description](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=ME218C&collapse=)
+
+##### ME 218C Final Project
+`RF-Controlled Boat` ``
+- [Project Website](https://sites.google.com/stanford.edu/wacked/home)
+
+#### 2. MS&E 297 (Hacking for Defense)
+Business Class: Solving National Security issues with the Lean Launchpad
+`Startup` `Mission Model Canvas` `Beneficiary Discovery`
+[Course Link](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=MS%26E297)
+
+##### H4D Final Presentation
+- [Recording](https://stanford.zoom.us/rec/component-page?action=viewdetailpage&sharelevel=meeting&useWhichPasswd=meeting&clusterId=aw1&componentName=need-password&meetingId=7NwsPPp3TKx4SYsF2baynVS4k4sIzlIa4OxVn3q0-ceS96etSTMSSjimFDSWfn-g.IvP6bPc1tJWLrArV&originRequestUrl=https%3A%2F%2Fstanford.zoom.us%2Frec%2Fshare%2FXB87uYJvFxvJTBjfvtVCaF3IBihlizlckZvDjZ4dSTAJPp1Jb6IJmGJZ5vixLgtY.u5t19We9RMixQAA0)
+- Password: wId$%1ck
+
+### Quarter 2
+#### 1. ME 218B (Smart Product Design Applications - C)
+- [ME 218B Course Description](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=ME218B&collapse=)
+
+##### ME 218B Final Project
+`Untethered, Autonomously Operating Robot` `Hierarchal State Machines`
+- [Project Website](https://sites.google.com/stanford.edu/wacked/home)
+
+##### ME 218B Labs
+| Lab No. | Name | Key Topics | Report PDF |
+| :------------: | :-------------: | :-------------: | :-------------: |
+| 5 | Stepper Motors | `Full-Step Drive` `Wave Drive` `Half-Step Drive` `Micro-Step Drive` `Debugger` | [Lab 5 Report](https://docs.google.com/document/d/1kvfqEYcBJN16aII6nVxNVyWR6pQaGTXK3Uq0EUv6fDQ/edit?usp=sharing) |
+| 6 | Behaviors of DC Motors with PWM | `Pulse Width Modulation` `DC-Motors` `Encoders` `Interrupt Response Routine` | [Lab 6 Report](https://docs.google.com/document/d/1znxnigiffy7tI3Cvn89DcethUMbOn99GZbQTPBCdbn8/edit?usp=sharing) |
+| 7 | DC Motor Drive Brake and Closed-Loop Control | `PID Control` `Drive-Brake Mode` `H-Bridges`| [Lab 7 Report](https://docs.google.com/document/d/1AZ2OIIQgN-aiYoT9x6B18Lm8Jf3kM1wWGQ3DzGdoQuY/edit?usp=sharing) |
+| 8 | Term Project Prelude | `SPI Communication with External Devices` `Signal Conditioning & Tape Sensing` `Hysteresis & Schmitt Trigger` | [Lab 8 Report](https://docs.google.com/document/d/18K0dkuHqweHw8Cb_v36zyF4aUObM5YxoWSMKGAn2Eng/edit?usp=sharing) |  
+
+#### 2. CME 106 (Probability and Statistics for Engineers - MATLAB)
+##### Psets (Hidden)  
+
+#### 3. CS 529 (Robotics & Autonomous Systems Seminar)
+Link to [CS 529 Class Website](https://stanfordasl.github.io/robotics_seminar/class/)
+
 ### Quarter 1
 #### 1. ME 218A (Smart Product Design Fundamentals - C)
+- [ME 218A Course Description](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=ME218A&collapse=)
+
+##### ME 218A Final Project
+- Click link to view project design, fabrication, and repository: [Project Website](https://me218team9.weebly.com/)
+
+##### ME 218A Labs
 | Lab No. | Name | Key Topics | Report PDF |
 | :------------: | :-------------: | :-------------: | :-------------: |
 | 1 | Photo-Transistor Circuits | `Analog to Digital` `Photo-Transistors & IR` `Op-Amps` `Comparators` | [Lab 1 Report](https://docs.google.com/document/d/1CNv0PQJ26Gi1o3UUDWH5SHgWODAiiL0IG_7UpYLrHfU/edit?usp=sharing) |
 | 2 | PIC32 Microcontroller Programming | `PIC32` `SPI` `Hardware Abstraction Layers` `Bitshifting` `Octal Buffers` | [Lab 2 Report](https://docs.google.com/document/d/16L0v3I46lQxieiru__-UeomoFq3WAxmcgbE3Ms6VyiA/edit?usp=sharing) |
 | 3 | Events and Services Framework | `Event-Driven System` `LED Matrix` | [Lab 3 Report](https://docs.google.com/document/d/1vJnUY5aw_GdmN7A_Yg-qnzxwIOXUwUWKEvwwmFHants/edit?usp=sharing) |
 | 4 | Morse Code Receiver | `Building a Complete Application` `Sensing` `Data Input to Microcontroller` `Data Interpretation` `Output Generation` | [Lab 4 Report](https://docs.google.com/document/d/1Zv3tIhZU83p3BRoKgcvMrfnNQmfNhgKaBVhIcS8iEU4/edit?usp=sharing) |  
-  
-##### ME 218A Final Project
-- Click link to view project design, fabrication, and repository: [Project Website](https://me218team9.weebly.com/)
 
 #### 2. CS 229 (Machine Learning - Python)
-##### Psets (Hidden)  
 
 ##### Final Research Project: Applying Reinforcement and Imitation Learning to Autonomous Driving
-- [Repository](https://github.com/wrs225/cs229-final-project)
-- Paper: [Machine_Learning_Final_Report.pdf](https://github.com/Ammo59/University-Portfolio/files/13633202/Machine_Learning_Final_Report.pdf)
-
+[Repository](https://github.com/wrs225/cs229-final-project)
 ![highway-env](https://github.com/Ammo59/University-Portfolio---Display/assets/84933358/3b0d6c88-b589-4be4-b074-d2cff2e411b9)
 
 - GIF Credits ([Farama Foundation](https://github.com/Farama-Foundation/HighwayEnv))
+- Paper: [Machine_Learning_Final_Report.pdf](https://github.com/Ammo59/University-Portfolio/files/13633202/Machine_Learning_Final_Report.pdf)
 
-### Quarter 2
-#### 1. ME 218B (Smart Product Design Applications - C)
-
-
-#### 2. CS 205L (Continuous Mathematical Methods with an Emphasis on Machine Learning)
-
-### Quarter 3
-#### 1. ME 218C (Smart Product Design Practice - C)
-
-#### 2. ME 203 (Design and Manufacturing)
+##### Psets (Hidden)  
 
 ## California State University, Long Beach
 #### 1. CECS 277 (Object-Oriented Application Development - Python)
