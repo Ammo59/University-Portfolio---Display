@@ -48,7 +48,7 @@ This repository contains projects from undergraduate & graduate courses. Will co
 - [ME 218C Course Description](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=ME218C&collapse=)
 
 ##### ME 218C Final Project
-![SailAcross](https://github.com/Ammo59/University-Portfolio---Display/assets/84933358/74d7c819-c3d2-454e-bd1f-6dc5d5f6c589)
+![SailAcross](https://github.com/Ammo59/University-Portfolio---Display/assets/84933358/74d7c819-c3d2-454e-bd1f-6dc5d5f6c589)\
 `RF-Controlled Boat` `Asynchronous Communication` `Waterproofing`
 - [Project Website](https://sites.google.com/stanford.edu/me218c-piratesbooty/home)
 
