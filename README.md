@@ -1,4 +1,8 @@
 # Table of Contents
+  * [ME 218C (Smart Product Design Practice - C)](#1-me-218b-smart-product-design-applications---c)
+    
+  * [MS&E 297 (Hacking For Defense)](#1-me-218b-smart-product-design-applications---c)
+    
   * [ME 218B (Smart Product Design Applications - C)](#1-me-218b-smart-product-design-applications---c)
 
   * [CME 106 (Probability and Statistics for Engineers - MATLAB)](#2-cme-106-probability-and-statistics-for-engineers---matlab)
@@ -25,8 +29,11 @@
 
 # University Portfolio
 This repository contains projects from undergraduate & graduate courses. Will continue to update!
+------
 
 ## Stanford University (in progress)
+
+------
 
 ### Quarter 5
 #### 1. CS 224N (NLP with Deep Learning - Python)
@@ -34,6 +41,8 @@ This repository contains projects from undergraduate & graduate courses. Will co
 #### 2. CS 205L (Continuous Mathematical Methods with an Emphasis on Machine Learning)
 
 #### 2. CS 529 (Robotics & Autonomous Systems Seminar)
+
+------
 
 ### Quarter 4 (in Progress)
 #### 1. ME 203 (Design and Manufacturing)
@@ -43,16 +52,15 @@ This repository contains projects from undergraduate & graduate courses. Will co
 
 #### 3. CS 528 (Machine Learning Systems Seminar)
 
+------
+
 ### Quarter 3
 #### 1. ME 218C (Smart Product Design Practice - C)
 - [ME 218C Course Description](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=ME218C&collapse=)
-
-##### ME 218C Final Project
+- [ME 218C Final Project](https://sites.google.com/stanford.edu/me218c-piratesbooty/home)
 ![SailAcross](https://github.com/Ammo59/University-Portfolio---Display/assets/84933358/74d7c819-c3d2-454e-bd1f-6dc5d5f6c589)\
-`RF-Controlled Boat` `Asynchronous Communication` `Waterproofing`
-- [Project Website](https://sites.google.com/stanford.edu/me218c-piratesbooty/home)
-
-##### ME 218C Labs
+`RF-Controlled Boat` `Asynchronous Communication` `Waterproofing` \
+- ME 218C Labs
 | Lab No. | Name | Key Topics | Report PDF |
 | :------------: | :-------------: | :-------------: | :-------------: |
 | 9 | Bit-Banged UART | `Assembly Language` `PIC10` `Asynchronous UART` | [Lab 9 Report](https://docs.google.com/document/d/1Q4dfSg2dWe1ffdjtH8gd-YriWo3YOTNDASM2Y_cotSo/edit) |
@@ -66,6 +74,8 @@ Business Class: Solving National Security issues with the Lean Launchpad\
 ##### H4D Final Presentation
 - [Recording](https://stanford.zoom.us/rec/component-page?action=viewdetailpage&sharelevel=meeting&useWhichPasswd=meeting&clusterId=aw1&componentName=need-password&meetingId=7NwsPPp3TKx4SYsF2baynVS4k4sIzlIa4OxVn3q0-ceS96etSTMSSjimFDSWfn-g.IvP6bPc1tJWLrArV&originRequestUrl=https%3A%2F%2Fstanford.zoom.us%2Frec%2Fshare%2FXB87uYJvFxvJTBjfvtVCaF3IBihlizlckZvDjZ4dSTAJPp1Jb6IJmGJZ5vixLgtY.u5t19We9RMixQAA0)
 - Password: wId$%1ck
+
+------
 
 ### Quarter 2
 #### 1. ME 218B (Smart Product Design Applications - C)
@@ -89,14 +99,13 @@ Business Class: Solving National Security issues with the Lean Launchpad\
 #### 3. CS 529 (Robotics & Autonomous Systems Seminar)
 Link to [CS 529 Class Website](https://stanfordasl.github.io/robotics_seminar/class/)
 
+------
+
 ### Quarter 1
 #### 1. ME 218A (Smart Product Design Fundamentals - C)
 - [ME 218A Course Description](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=ME218A&collapse=)
-
-##### ME 218A Final Project
-- Click link to view project design, fabrication, and repository: [Project Website](https://me218team9.weebly.com/)
-
-##### ME 218A Labs
+- [ME 218A Final Project](https://me218team9.weebly.com/)
+- ME 218A Labs
 | Lab No. | Name | Key Topics | Report PDF |
 | :------------: | :-------------: | :-------------: | :-------------: |
 | 1 | Photo-Transistor Circuits | `Analog to Digital` `Photo-Transistors & IR` `Op-Amps` `Comparators` | [Lab 1 Report](https://docs.google.com/document/d/1CNv0PQJ26Gi1o3UUDWH5SHgWODAiiL0IG_7UpYLrHfU/edit?usp=sharing) |
@@ -105,15 +114,14 @@ Link to [CS 529 Class Website](https://stanfordasl.github.io/robotics_seminar/cl
 | 4 | Morse Code Receiver | `Building a Complete Application` `Sensing` `Data Input to Microcontroller` `Data Interpretation` `Output Generation` | [Lab 4 Report](https://docs.google.com/document/d/1Zv3tIhZU83p3BRoKgcvMrfnNQmfNhgKaBVhIcS8iEU4/edit?usp=sharing) |  
 
 #### 2. CS 229 (Machine Learning - Python)
-
-##### Final Research Project: Applying Reinforcement and Imitation Learning to Autonomous Driving
-[Repository](https://github.com/wrs225/cs229-final-project)
+- Final Research Project [Repository](https://github.com/wrs225/cs229-final-project): Applying Reinforcement and Imitation Learning to Autonomous Driving
 ![highway-env](https://github.com/Ammo59/University-Portfolio---Display/assets/84933358/3b0d6c88-b589-4be4-b074-d2cff2e411b9)
-
 - GIF Credits ([Farama Foundation](https://github.com/Farama-Foundation/HighwayEnv))
 - Paper: [Machine_Learning_Final_Report.pdf](https://github.com/Ammo59/University-Portfolio/files/13633202/Machine_Learning_Final_Report.pdf)
 
 ##### Psets (Hidden)  
+
+
 
 ## California State University, Long Beach
 #### 1. CECS 277 (Object-Oriented Application Development - Python)
@@ -156,6 +164,7 @@ In this folder lie the assigned projects assembled within technical documentatio
 | 5 | Initial Value Problems | [Num_Project 5.pdf](https://github.com/Ammo59/Portfolio/files/10284179/Project.5_.Initial.Value.Problems.pdf)
 
 ------
+
 #### 4. MAE 375 (Kinematics and Dynamics of Mechanisms - MATLAB) 
 Coursework: Covers Fourbar and Fivebar linkages
 
@@ -166,6 +175,7 @@ Coursework: Covers Fourbar and Fivebar linkages
 | 6 | Velocity Analysis | `Instant Centers of Velocity` `Crank-Slider` `Slider-Crank` `Inverted Slider-Crank` | ![Velocity_Analysis](https://user-images.githubusercontent.com/84933358/218877783-81d0bd51-2579-426e-bad1-f97255af5325.png) |
 | 7 | Acceleration Analysis |`N-bar Linkages` `Jerk` `Graphical Analysis`| ![Accel_Analysis](https://user-images.githubusercontent.com/84933358/218877929-20a97514-3fa7-4f87-8f8d-475dcdc49189.png) |
 | 11 | Dynamic Force Analysis | `Energy Method` `Shaking Force` `Shaking Moment` `Torque Analysis` | ![DynForce_Analysis](https://user-images.githubusercontent.com/84933358/218878195-6e27705c-237f-442a-a108-5ec53c7a3833.png) |
+
 ------
 
 #### 5. MAE 376 (Modeling and Analysis of Dynamic Systems - MATLAB):
@@ -181,6 +191,7 @@ Coursework: Covers Fourbar and Fivebar linkages
 | 8 | System Response | `Transient/Steady-State Response` `First/Second-Order Systems` `Frequency Response` `Bode Plot` `Nonlinear Systems` `Runge-Kutta Method` | ![Bde](https://user-images.githubusercontent.com/84933358/218892377-8b5c826f-2caf-49a7-a1c9-cfc67e372acd.png) |
 | 9 | Vibration |`Free Vibration` `Forced Vibration` `Isolator/Absorber Suppresions` `Modal Analysis` `Measurement and Analysis` | ![Excit](https://user-images.githubusercontent.com/84933358/218893020-e31bd019-8446-40e8-8589-24989f97905e.png) |
 | 10 | Feedback Control Systems |`Control Design` `Stability and Performance` `PID Control` `Root Locus` `Bode Plot Simulation and Analysis` `Full-State Feedback` `Simulink/Simscape Control Design` | ![PID](https://user-images.githubusercontent.com/84933358/218893256-de3cbc59-9395-491f-9031-d6725e8edf18.png) |
+
 ------
 
 #### 6. MAE 476 (Mechanical Control Systems - MATLAB) 
@@ -195,7 +206,9 @@ Homework:
 | 7 | State-Space Design | `State-Space Advantages` `Control-Law Design` `Selection of Pole Locations` `estimator Design` `Robust Tracking` | ![SS](https://user-images.githubusercontent.com/84933358/219851798-6ea2e0a3-303d-45d7-9949-90573c508c7d.png) |
 | 8 | Digital Control | `Digitization` `Dynamic Analysis of Discrete Systems` `Z-Transform` `Zero-Order Hold` `[Modified] Matched Pole-Zero Method` `Analog-to-Digital Converter` | ![DigControl](https://user-images.githubusercontent.com/84933358/219851938-63106f6b-ff24-47f7-afcb-eb3537dd8c5f.png) |
 | 10 | Principles and Case Studies |`Satellite's Altitude Control` `Lateral/Longitudinal Control of Boeing` `Fuel-Air Ratio in Engine` `Quadcopter Drone` | ![ADM](https://user-images.githubusercontent.com/84933358/218882698-bf8e2e96-9374-461d-bd65-01acd0b48359.png) |
+
 ------
+
 
 ## Long Beach City College
 
