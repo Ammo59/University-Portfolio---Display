@@ -51,6 +51,12 @@ This repository contains projects from undergraduate & graduate courses. Will co
 `RF-Controlled Boat` ``
 - [Project Website](https://sites.google.com/stanford.edu/wacked/home)
 
+##### ME 218C Labs
+| Lab No. | Name | Key Topics | Report PDF |
+| :------------: | :-------------: | :-------------: | :-------------: |
+| 9 | Bit-Banged UART | `Assembly Language` `PIC10` `Asynchronous UART` | [Lab 9 Report](https://docs.google.com/document/d/1Q4dfSg2dWe1ffdjtH8gd-YriWo3YOTNDASM2Y_cotSo/edit) |
+| 10 | A Mini Network | `Network Design & Implementation` `Asynch Serial Comms` | [Lab 10 Report](https://docs.google.com/document/d/1Skb43Jc03-mq15VGifFJStYH9ymjmgZVlxgqL6jeVUU/edit) |
+
 #### 2. MS&E 297 (Hacking for Defense)
 Business Class: Solving National Security issues with the Lean Launchpad
 `Startup` `Mission Model Canvas` `Beneficiary Discovery`
