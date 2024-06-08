@@ -1,7 +1,7 @@
 # Table of Contents
   * [ME 218C (Smart Product Design Practice - C)](#1-me-218b-smart-product-design-applications---c)
     
-  * [MS&E 297 (Hacking For Defense)](#1-me-218b-smart-product-design-applications---c)
+  * [MS&E 297 (Hacking For Defense)](#2-ms&e-297-hacking-for-defense)
     
   * [ME 218B (Smart Product Design Applications - C)](#1-me-218b-smart-product-design-applications---c)
 
@@ -60,11 +60,13 @@ This repository contains projects from undergraduate & graduate courses. Will co
 - [ME 218C Final Project](https://sites.google.com/stanford.edu/me218c-piratesbooty/home)
 ![SailAcross](https://github.com/Ammo59/University-Portfolio---Display/assets/84933358/74d7c819-c3d2-454e-bd1f-6dc5d5f6c589)\
 `RF-Controlled Boat` `Asynchronous Communication` `Waterproofing` \
-- ME 218C Labs
+
+##### ME 218C Labs
 | Lab No. | Name | Key Topics | Report PDF |
 | :------------: | :-------------: | :-------------: | :-------------: |
 | 9 | Bit-Banged UART | `Assembly Language` `PIC10` `Asynchronous UART` | [Lab 9 Report](https://docs.google.com/document/d/1Q4dfSg2dWe1ffdjtH8gd-YriWo3YOTNDASM2Y_cotSo/edit) |
 | 10 | A Mini Network | `Network Design & Implementation` `Asynch Serial Comms` | [Lab 10 Report](https://docs.google.com/document/d/1Skb43Jc03-mq15VGifFJStYH9ymjmgZVlxgqL6jeVUU/edit) |
+
 
 #### 2. MS&E 297 (Hacking for Defense)
 Business Class: Solving National Security issues with the Lean Launchpad\
@@ -105,13 +107,15 @@ Link to [CS 529 Class Website](https://stanfordasl.github.io/robotics_seminar/cl
 #### 1. ME 218A (Smart Product Design Fundamentals - C)
 - [ME 218A Course Description](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=ME218A&collapse=)
 - [ME 218A Final Project](https://me218team9.weebly.com/)
-- ME 218A Labs
+
+##### ME 218A Labs
 | Lab No. | Name | Key Topics | Report PDF |
 | :------------: | :-------------: | :-------------: | :-------------: |
 | 1 | Photo-Transistor Circuits | `Analog to Digital` `Photo-Transistors & IR` `Op-Amps` `Comparators` | [Lab 1 Report](https://docs.google.com/document/d/1CNv0PQJ26Gi1o3UUDWH5SHgWODAiiL0IG_7UpYLrHfU/edit?usp=sharing) |
 | 2 | PIC32 Microcontroller Programming | `PIC32` `SPI` `Hardware Abstraction Layers` `Bitshifting` `Octal Buffers` | [Lab 2 Report](https://docs.google.com/document/d/16L0v3I46lQxieiru__-UeomoFq3WAxmcgbE3Ms6VyiA/edit?usp=sharing) |
 | 3 | Events and Services Framework | `Event-Driven System` `LED Matrix` | [Lab 3 Report](https://docs.google.com/document/d/1vJnUY5aw_GdmN7A_Yg-qnzxwIOXUwUWKEvwwmFHants/edit?usp=sharing) |
 | 4 | Morse Code Receiver | `Building a Complete Application` `Sensing` `Data Input to Microcontroller` `Data Interpretation` `Output Generation` | [Lab 4 Report](https://docs.google.com/document/d/1Zv3tIhZU83p3BRoKgcvMrfnNQmfNhgKaBVhIcS8iEU4/edit?usp=sharing) |  
+
 
 #### 2. CS 229 (Machine Learning - Python)
 - Final Research Project [Repository](https://github.com/wrs225/cs229-final-project): Applying Reinforcement and Imitation Learning to Autonomous Driving
@@ -121,7 +125,7 @@ Link to [CS 529 Class Website](https://stanfordasl.github.io/robotics_seminar/cl
 
 ##### Psets (Hidden)  
 
-
+------
 
 ## California State University, Long Beach
 #### 1. CECS 277 (Object-Oriented Application Development - Python)
@@ -230,7 +234,7 @@ Homework:
 ------
 
 #### 2. CS 22 (Data Structures and Algorithms - C++) 
-Will take beginning March 2023, completion is projected to be June 2023
+
 | Project No. | Name | Figure |
 | :------------: | :-------------: | :-------------: |
 | 1 | Debugging Structures | ![Desired Console Output](https://user-images.githubusercontent.com/84933358/226327633-69bc38df-00b5-4b1b-94c2-70059eed1520.png) |
