@@ -1,11 +1,13 @@
 # Table of Contents
-  * [ME 218C (Smart Product Design Practice - C)](#1-me-218b-smart-product-design-applications---c)
+  * [ME 218C (Smart Product Design Practice - C)](#1-me-218c-smart-product-design-practice---c)
     
-  * [MS&E 297 (Hacking For Defense)](#2-ms&e-297-hacking-for-defense)
+  * [MS&E 297 (Hacking For Defense)](#2-mse-297-hacking-for-defense)
     
   * [ME 218B (Smart Product Design Applications - C)](#1-me-218b-smart-product-design-applications---c)
 
   * [CME 106 (Probability and Statistics for Engineers - MATLAB)](#2-cme-106-probability-and-statistics-for-engineers---matlab)
+    
+  * [CS 529 (Robotics & Autonomous Systems Seminar)](#3-cs-529-robotics--autonomous-systems-seminar)
   
   * [ME 218A (Smart Product Design Fundamentals - C)](#1-me-218A-smart-product-design-fundamentals---c)
 
@@ -35,12 +37,12 @@ This repository contains projects from undergraduate & graduate courses. Will co
 
 ------
 
-### Quarter 5
+### Quarter 5 (upcoming planned courses)
 #### 1. CS 224N (NLP with Deep Learning - Python)
 
 #### 2. CS 205L (Continuous Mathematical Methods with an Emphasis on Machine Learning)
 
-#### 2. CS 529 (Robotics & Autonomous Systems Seminar)
+#### 3. CS 529 (Robotics & Autonomous Systems Seminar)
 
 ------
 
@@ -57,9 +59,10 @@ This repository contains projects from undergraduate & graduate courses. Will co
 ### Quarter 3
 #### 1. ME 218C (Smart Product Design Practice - C)
 - [ME 218C Course Description](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=ME218C&collapse=)
-- [ME 218C Final Project](https://sites.google.com/stanford.edu/me218c-piratesbooty/home)
+- [ME 218C Final Project](https://sites.google.com/stanford.edu/me218c-piratesbooty/home) \
 ![SailAcross](https://github.com/Ammo59/University-Portfolio---Display/assets/84933358/74d7c819-c3d2-454e-bd1f-6dc5d5f6c589)\
-`RF-Controlled Boat` `Asynchronous Communication` `Waterproofing` \
+`RF-Controlled Boat` `Asynchronous Communication` `Waterproofing`
+
 
 ##### ME 218C Labs
 | Lab No. | Name | Key Topics | Report PDF |
@@ -69,9 +72,9 @@ This repository contains projects from undergraduate & graduate courses. Will co
 
 
 #### 2. MS&E 297 (Hacking for Defense)
-Business Class: Solving National Security issues with the Lean Launchpad\
+- Business Class: Solving National Security issues with the Lean Launchpad\
+- [Course Description](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=MS%26E297)
 `Startup` `Mission Model Canvas` `Beneficiary Discovery`\
-[Course Link](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=MS%26E297)
 
 ##### H4D Final Presentation
 - [Recording](https://stanford.zoom.us/rec/component-page?action=viewdetailpage&sharelevel=meeting&useWhichPasswd=meeting&clusterId=aw1&componentName=need-password&meetingId=7NwsPPp3TKx4SYsF2baynVS4k4sIzlIa4OxVn3q0-ceS96etSTMSSjimFDSWfn-g.IvP6bPc1tJWLrArV&originRequestUrl=https%3A%2F%2Fstanford.zoom.us%2Frec%2Fshare%2FXB87uYJvFxvJTBjfvtVCaF3IBihlizlckZvDjZ4dSTAJPp1Jb6IJmGJZ5vixLgtY.u5t19We9RMixQAA0)
@@ -82,10 +85,8 @@ Business Class: Solving National Security issues with the Lean Launchpad\
 ### Quarter 2
 #### 1. ME 218B (Smart Product Design Applications - C)
 - [ME 218B Course Description](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=ME218B&collapse=)
-
-##### ME 218B Final Project
+- [ME 218B Final Project](https://sites.google.com/stanford.edu/wacked/home) \
 `Untethered, Autonomously Operating Robot` `Hierarchal State Machines`
-- [Project Website](https://sites.google.com/stanford.edu/wacked/home)
 
 ##### ME 218B Labs
 | Lab No. | Name | Key Topics | Report PDF |
@@ -96,7 +97,10 @@ Business Class: Solving National Security issues with the Lean Launchpad\
 | 8 | Term Project Prelude | `SPI Communication with External Devices` `Signal Conditioning & Tape Sensing` `Hysteresis & Schmitt Trigger` | [Lab 8 Report](https://docs.google.com/document/d/18K0dkuHqweHw8Cb_v36zyF4aUObM5YxoWSMKGAn2Eng/edit?usp=sharing) |  
 
 #### 2. CME 106 (Probability and Statistics for Engineers - MATLAB)
+- [CME 106 Course Description](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=CME+106%3A+Introduction+to+Probability+and+Statistics+for+Engineers&collapse=)
 ##### Psets (Hidden)  
+`Probability of Random Variables` `Numerical Simulations` `Statistical Testing`
+
 
 #### 3. CS 529 (Robotics & Autonomous Systems Seminar)
 Link to [CS 529 Class Website](https://stanfordasl.github.io/robotics_seminar/class/)
@@ -129,7 +133,6 @@ Link to [CS 529 Class Website](https://stanfordasl.github.io/robotics_seminar/cl
 
 ## California State University, Long Beach
 #### 1. CECS 277 (Object-Oriented Application Development - Python)
-Currently in progress, will update as projects are completed.
 
 | Project No. | Name | Key Topics | Image/GIF |
 | :------------: | :-------------: | :-------------: | :-------------: |
