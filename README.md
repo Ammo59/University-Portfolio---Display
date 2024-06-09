@@ -86,8 +86,8 @@ This repository contains projects from undergraduate & graduate courses. Will co
 #### 1. ME 218B (Smart Product Design Applications - C)
 - [ME 218B Course Description](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=ME218B&collapse=)
 - [ME 218B Final Project](https://sites.google.com/stanford.edu/wacked/home) \
-`Untethered, Autonomously Operating Robot` `Hierarchal State Machines`
 ![SQRL](https://github.com/Ammo59/University-Portfolio---Display/assets/84933358/c715d1be-84c2-45c5-874d-760a5a7aa5d4)
+`Untethered, Autonomously Operating Robot` `Hierarchal State Machines`
 
 ##### ME 218B Labs
 | Lab No. | Name | Key Topics | Report PDF |
@@ -113,6 +113,7 @@ Link to [CS 529 Class Website](https://stanfordasl.github.io/robotics_seminar/cl
 - [ME 218A Course Description](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=ME218A&collapse=)
 - [ME 218A Final Project](https://me218team9.weebly.com/)
 ![TowelHeater](https://github.com/Ammo59/University-Portfolio---Display/assets/84933358/7e0790c2-5537-4e2d-8de0-6d8113418ded)
+`Events and Services Framework` `PIC32 Microcontroller`
 
 ##### ME 218A Labs
 | Lab No. | Name | Key Topics | Report PDF |
