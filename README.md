@@ -247,11 +247,11 @@ Homework:
 | 2 | OOP Poker Game | ![OOP_Poker](https://user-images.githubusercontent.com/84933358/226327336-a041c117-da8a-4071-a8d0-e1c5db0d7159.png) |
 | 3 | Sorting Restaurant Menu | ![MenuSorting](https://user-images.githubusercontent.com/84933358/231871419-ce466ae1-f4a7-4fc6-acae-ad23afe6e502.png) |
 | 4 | Bubble and Selection Sort | ![Sorting](https://user-images.githubusercontent.com/84933358/231871481-568119ad-836c-4124-98ec-d1af8bef18f2.png) |
-| 5 | Linked List Node Deletion | ![Linked List Node Deletion](https://github.com/Ammo59/University-Portfolio/assets/84933358/b99784ec-7e12-4ac4-bed6-405c29f1e071) |
+| 5 | Linked List Node Deletion | ![LinkedList5](https://github.com/Ammo59/University-Portfolio---Display/assets/84933358/57af0ee0-6eda-4d77-b672-8005235d0b84) |
 | 6 | Quiz instead of Lab | N/A |
-| 7 | Recursion Diamond |![Recursive Diamond](https://github.com/Ammo59/University-Portfolio/assets/84933358/ec8d1489-2aa2-4683-bd11-71557d6ab7db) |
-| 8 | Job Queue | ![Screenshot 2023-05-16 170623](https://github.com/Ammo59/University-Portfolio/assets/84933358/8b6c7485-b22f-48a4-814c-01918766143f) |
+| 7 | Recursion Diamond | ![Diamond7](https://github.com/Ammo59/University-Portfolio---Display/assets/84933358/946454ff-97b1-40c4-9a13-a5bcb5a8c36f) |
+| 8 | Job Queue |  ![Triangle8](https://github.com/Ammo59/University-Portfolio---Display/assets/84933358/08f55f51-9d37-45aa-9043-ffdb039ac3aa) |
 | 9 | Quiz instead of Lab | N/A |
-| 10 | Constitution Binary Search Tree | ![CBST](https://github.com/Ammo59/University-Portfolio/assets/84933358/73d38b0d-eb33-4db5-9ab2-76cd69ac4660) |
+| 10 | Constitution Binary Search Tree | ![BinaryTree10](https://github.com/Ammo59/University-Portfolio---Display/assets/84933358/a819b6b6-6cfc-4c02-80d3-2beef9f3a0ad) |
 
 ------
