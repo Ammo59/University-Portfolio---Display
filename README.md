@@ -49,7 +49,7 @@ This repository contains projects from undergraduate & graduate courses. Will co
 ### Quarter 4 (in Progress)
 #### 1. ME 203 (Design and Manufacturing)
 
-#### 2. CS 237A (Principles of Robot Autonomoy I - Python & ROS)
+#### 2. CS 237A (Principles of Robot Autonomy I - Python & ROS)
 - [CS 237A Course Website](https://stanfordasl.github.io//PoRA-I/aa274a_aut2324/)
 
 #### 3. CS 528 (Machine Learning Systems Seminar)
