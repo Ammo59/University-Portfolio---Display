@@ -111,7 +111,7 @@ Link to [CS 529 Class Website](https://stanfordasl.github.io/robotics_seminar/cl
 ### Quarter 1
 #### 1. ME 218A (Smart Product Design Fundamentals - C)
 - [ME 218A Course Description](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=ME218A&collapse=)
-- [ME 218A Final Project](https://me218team9.weebly.com/)
+- [ME 218A Final Project](https://me218team9.weebly.com/)\
 ![TowelHeater](https://github.com/Ammo59/University-Portfolio---Display/assets/84933358/7e0790c2-5537-4e2d-8de0-6d8113418ded)\
 `Events and Services Framework` `PIC32 Microcontroller` `Digital & Analog Sensing`
 
