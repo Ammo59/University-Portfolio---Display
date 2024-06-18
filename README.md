@@ -125,6 +125,7 @@ Link to [CS 529 Class Website](https://stanfordasl.github.io/robotics_seminar/cl
 
 
 #### 2. CS 229 (Machine Learning - Python)
+- [CS 229 Course Description](https://cs229.stanford.edu/)
 - Final Research Project [Repository](https://github.com/wrs225/cs229-final-project): Applying Reinforcement and Imitation Learning to Autonomous Driving
 ![highway-env](https://github.com/Ammo59/University-Portfolio---Display/assets/84933358/3b0d6c88-b589-4be4-b074-d2cff2e411b9)
 - GIF Credits ([Farama Foundation](https://github.com/Farama-Foundation/HighwayEnv))
