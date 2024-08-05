@@ -129,7 +129,9 @@ Link to [CS 529 Class Website](https://stanfordasl.github.io/robotics_seminar/cl
 - Final Research Project [Repository](https://github.com/wrs225/cs229-final-project): Applying Reinforcement and Imitation Learning to Autonomous Driving
 ![highway-env](https://github.com/Ammo59/University-Portfolio---Display/assets/84933358/3b0d6c88-b589-4be4-b074-d2cff2e411b9)
 - GIF Credits ([Farama Foundation](https://github.com/Farama-Foundation/HighwayEnv))
-- Paper: [Machine_Learning_Final_Report.pdf](https://github.com/Ammo59/University-Portfolio/files/13633202/Machine_Learning_Final_Report.pdf)
+- Paper: [Machine_Learning_Final_Report.pdf](https://github.com/user-attachments/files/16492097/Machine_Learning_Final_Report.pdf)
+- Poster: [Final_CS229_Stanford_Poster.pdf](https://github.com/user-attachments/files/16492104/Final_CS229_Stanford_Poster.pdf)
+
 
 ##### Psets (Hidden)  
 
