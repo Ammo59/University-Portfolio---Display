@@ -37,22 +37,47 @@ This repository contains projects from undergraduate & graduate courses. Will co
 
 ------
 
+### Quarter 6 (upcoming planned courses)
+#### 1. ME 318 (Computer-Aided Product Creation)
+
+#### 2. CS 231N (Deep Learning for Computer Vision)
+
+#### 3. PHYSWELL 35 (Golf: Intermediate)
+
+#### 4. PHYSWELL 36 (Golf: Advanced)
+
+#### 5. PHYSWELL 54 (Swimming: Stroke Refinement)
+
+------
+
 ### Quarter 5 (upcoming planned courses)
-#### 1. CS 224N (NLP with Deep Learning - Python)
+#### 1. ME 203 (Design and Manufacturing)
 
-#### 2. CS 205L (Continuous Mathematical Methods with an Emphasis on Machine Learning)
+#### 2. CS 224N (NLP with Deep Learning - Python)
 
-#### 3. CS 529 (Robotics & Autonomous Systems Seminar)
+#### 3. CS 205L (Continuous Mathematical Methods with an Emphasis on Machine Learning)
+
+#### 4. PHYSWELL 34 (Golf: Advanced Beginning)
 
 ------
 
 ### Quarter 4 (in Progress)
-#### 1. ME 203 (Design and Manufacturing)
+#### 1. ME 204 (Advanced Mechanical Systems Design)
+= [ME 204 Course Description](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=ME+204%3A+Advanced+Mechanical+Systems+Design&collapse=)
+- Project 1 & 2 will be illustrated when course concludes
 
 #### 2. CS 237A (Principles of Robot Autonomy I - Python & ROS)
 - [CS 237A Course Website](https://stanfordasl.github.io//PoRA-I/aa274a_aut2324/)
+- [CS 237A Course Description](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=CS+237A%3A+Principles+of+Robot+Autonomy+I&collapse=)
 
-#### 3. CS 528 (Machine Learning Systems Seminar)
+#### 3. ARMLANG 395 (3rd Year Armenian Language)
+- Working on translating Vartouhe Kalantar's Diary (1918, right after the Armenian genocide) from Armenian to English
+
+#### 4. PHYSWELL 33 (Golf: Beginning)
+- Have lots of YouTube videos of progress in development!
+
+#### 5. PHYSWELL 54 (Swimming: Stroke Refinement)
+- To keep good cardio stamina / shape
 
 ------
 
@@ -73,8 +98,8 @@ This repository contains projects from undergraduate & graduate courses. Will co
 
 #### 2. MS&E 297 (Hacking for Defense)
 - Business Class: Solving National Security issues with the Lean Launchpad
-- [Course Webpage](https://h4d.stanford.edu/)
-- [Course Description](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=MS%26E297) \
+- [H4D Course Webpage](https://h4d.stanford.edu/)
+- [H4D Course Description](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=MS%26E297) \
 `Startup` `Mission Model Canvas` `Beneficiary Discovery`
 
 ##### H4D Final Presentation
