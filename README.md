@@ -63,7 +63,7 @@ This repository contains projects from undergraduate & graduate courses. Will co
 
 ### Quarter 4 (in Progress)
 #### 1. ME 204 (Advanced Mechanical Systems Design)
-= [ME 204 Course Description](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=ME+204%3A+Advanced+Mechanical+Systems+Design&collapse=)
+- [ME 204 Course Description](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=ME+204%3A+Advanced+Mechanical+Systems+Design&collapse=)
 - Project 1 & 2 will be illustrated when course concludes
 
 #### 2. CS 237A (Principles of Robot Autonomy I - Python & ROS)
