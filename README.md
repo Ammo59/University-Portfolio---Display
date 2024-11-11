@@ -169,8 +169,8 @@ Exhibits Labs 1-10, as well as unique problems given as extra credit
 In this folder lie the assigned projects assembled within technical documentation. Their code exists in the "All-Code" Folder, except for project 3, which is included here.
 
 | Project No. | Name | Key Topics | PDF File |
-| :------------: | :-------------: | :-------------: |
-| 1 | Numerical Approaches | `Bisection` `Regula Falsi` `Fixed-Point` `Newton-Raphson` | [Num_Project 1.pdf](https://github.com/user-attachments/files/17698416/Num_Project.1.pdf) |
+| :------------: | :-------------: | :-------------: | :-------------: |
+| 1 | Numerical Approaches | `Bisection` `Regula Falsi` `Fixed-Point` `Newton-Raphson` | [Num_Project_1.pdf](https://github.com/user-attachments/files/17698416/Num_Project.1.pdf) |
 | 2 | Numerical Solutions to Systems of Equations | `Gauss Elimination` `Doolittle` `Cholesky` `Thomas` `Jacobi` `Gauss-Seidel` | [Num_Project 2.pdf](https://github.com/user-attachments/files/17698410/Num_Project.2_.Numerical.Solutions.to.Systems.of.Equations.pdf) |
 | 3 | Curve Fitting and Interpolation | `Linear Regression` `Exponential Func` `Power Func` `Saturation Func` `Polynomial Regression` `Lagrange Polynomial` `Netwon's Divided-Difference` | [Num_Project_3.pdf](https://github.com/user-attachments/files/17698401/Num_Project.3_.Curve.Fitting.and.Interpolation.pdf) |
 | 4 | Numerical Integration | `Rectangular` `Trapezoidal` `Simpson's 3/8` `Gaussian Quadrature` | [Num_Project_4.pdf](https://github.com/user-attachments/files/17698391/Project.4_.Numerical.Integration.pdf) |
