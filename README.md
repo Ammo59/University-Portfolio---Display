@@ -65,7 +65,10 @@ This repository contains projects from undergraduate & graduate courses. Will co
 
 #### 3. CS 205L (Continuous Mathematical Methods with an Emphasis on Machine Learning)
 
-#### 4. PHYSWELL 35 (Intermediate Golf)
+#### 4. ARMLANG 395 (3rd Year Armenian Language)
+- Working on translating Vartouhe Kalantar's Diary (1918, right after the Armenian genocide) from Armenian to English
+
+#### 5. PHYSWELL 35 (Intermediate Golf)
 
 ------
 
@@ -77,6 +80,7 @@ This repository contains projects from undergraduate & graduate courses. Will co
 - Max Force, Minimum Mass
 - [Project_2---Description.pdf](https://github.com/user-attachments/files/18180207/Project_2---Description.pdf)
 - [Project 2---Testing Video](https://www.youtube.com/watch?v=0QQm4MrFlgw&list=PLlOMM6QeJYid5jTGHFZq7e_FFMMFJYO4Z&index=1&ab_channel=AramisKelkelyan)
+![RP_MoneyShot](https://github.com/user-attachments/assets/16a34df1-d7f3-485b-9881-6a3a0a5a50ab)
 <!--- <> (- [Project 2---Presentation](https://docs.google.com/presentation/d/1nB_n4bTM0Guvbd90BhRJDlxugWKhkIu_iJdrz7Unt0k/edit#slide=id.p1)) -->
 
 
@@ -98,6 +102,7 @@ This repository contains projects from undergraduate & graduate courses. Will co
 
 #### 5. PHYSWELL 54 (Swimming Stroke Refinement)
 - To keep good cardio stamina / shape
+<!--- Include YouTube vids? -->
 
 ------
 
