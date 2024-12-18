@@ -1,4 +1,14 @@
 # Table of Contents
+  * [ME 204 (Advanced Mechanical Systems Design)](#1-me-204-advanced-mechanical-systems-design)
+
+  * [CS 237A (Principles of Robot Autonomy I - Python and ROS)](#2-cs-237a-principles-of-robot-autonomy-i---python-and-ros)
+
+  * [ARMLANG 395 (3rd Year Armenian Language)](#3-armlang-395-3rd-year-armenian-language)
+
+  * [PHYSWELL 33 (Golf)](#4-physwell-33-golf)
+
+  * [PHYSWELL 54 (Swimming Stroke Refinement)](#5-physwell-54-swimming-stroke-refinement)
+
   * [ME 218C (Smart Product Design Practice - C)](#1-me-218c-smart-product-design-practice---c)
     
   * [MS&E 297 (Hacking For Defense)](#2-mse-297-hacking-for-defense)
@@ -42,26 +52,24 @@ This repository contains projects from undergraduate & graduate courses. Will co
 
 #### 2. CS 231N (Deep Learning for Computer Vision)
 
-#### 3. PHYSWELL 35 (Golf: Intermediate)
+#### 4. PHYSWELL 36 (Advanced Golf)
 
-#### 4. PHYSWELL 36 (Golf: Advanced)
-
-#### 5. PHYSWELL 54 (Swimming: Stroke Refinement)
+#### 5. PHYSWELL 54 (Swimming Stroke Refinement)
 
 ------
 
-### Quarter 5 (upcoming planned courses)
+### Quarter 5 (in Progress)
 #### 1. ME 203 (Design and Manufacturing)
 
 #### 2. CS 224N (NLP with Deep Learning - Python)
 
 #### 3. CS 205L (Continuous Mathematical Methods with an Emphasis on Machine Learning)
 
-#### 4. PHYSWELL 34 (Golf: Advanced Beginning)
+#### 4. PHYSWELL 35 (Intermediate Golf)
 
 ------
 
-### Quarter 4 (in Progress)
+### Quarter 4
 #### 1. ME 204 (Advanced Mechanical Systems Design)
 - [ME 204 Course Description](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=ME+204%3A+Advanced+Mechanical+Systems+Design&collapse=)
 
@@ -69,7 +77,7 @@ This repository contains projects from undergraduate & graduate courses. Will co
 - Max Force, Minimum Mass
 - [Project_2---Description.pdf](https://github.com/user-attachments/files/18180207/Project_2---Description.pdf)
 - [Project 2---Testing Video](https://www.youtube.com/watch?v=0QQm4MrFlgw&list=PLlOMM6QeJYid5jTGHFZq7e_FFMMFJYO4Z&index=1&ab_channel=AramisKelkelyan)
-[comment]: <> (- [Project 2---Presentation](https://docs.google.com/presentation/d/1nB_n4bTM0Guvbd90BhRJDlxugWKhkIu_iJdrz7Unt0k/edit#slide=id.p1))
+<!--- <> (- [Project 2---Presentation](https://docs.google.com/presentation/d/1nB_n4bTM0Guvbd90BhRJDlxugWKhkIu_iJdrz7Unt0k/edit#slide=id.p1)) -->
 
 
 ##### Project 1: Controlled Compression
@@ -78,17 +86,17 @@ This repository contains projects from undergraduate & graduate courses. Will co
 - [Project 1---Testing Video](https://youtube.com/shorts/GCjbWMI3Al4)
 - [Project 1---Presentation](https://docs.google.com/presentation/d/1ghad_hjT9XzdyTXkeblCUaVNIVplAlrn4tQbMMHzSz0/edit#slide=id.p1)
 
-#### 2. CS 237A (Principles of Robot Autonomy I - Python & ROS)
+#### 2. CS 237A (Principles of Robot Autonomy I - Python and ROS)
 - [CS 237A Course Website](https://stanfordasl.github.io//PoRA-I/aa274a_aut2324/)
 - [CS 237A Course Description](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=CS+237A%3A+Principles+of+Robot+Autonomy+I&collapse=)
 
 #### 3. ARMLANG 395 (3rd Year Armenian Language)
 - Working on translating Vartouhe Kalantar's Diary (1918, right after the Armenian genocide) from Armenian to English
 
-#### 4. PHYSWELL 33 (Golf: Beginning)
+#### 4. PHYSWELL 33 (Golf)
 - Have lots of YouTube videos of progress in development!
 
-#### 5. PHYSWELL 54 (Swimming: Stroke Refinement)
+#### 5. PHYSWELL 54 (Swimming Stroke Refinement)
 - To keep good cardio stamina / shape
 
 ------
