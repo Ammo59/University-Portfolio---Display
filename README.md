@@ -65,7 +65,7 @@ This repository contains projects from undergraduate & graduate courses. Will co
 
 #### 3. CS 205L (Continuous Mathematical Methods with an Emphasis on Machine Learning)
 
-#### 4. ARMLANG 395 (3rd Year Armenian Language)
+#### 4. ARMLANG 395 (3rd Year Armenian Language, Quarter 2)
 - Working on translating Vartouhe Kalantar's Diary (1918, right after the Armenian genocide) from Armenian to English
 
 #### 5. PHYSWELL 35 (Intermediate Golf)
