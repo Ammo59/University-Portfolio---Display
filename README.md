@@ -54,7 +54,7 @@ This repository contains projects from undergraduate & graduate courses. Will co
 
 #### 4. PHYSWELL 36 (Advanced Golf)
 
-#### 5. PHYSWELL 54 (Swimming Stroke Refinement)
+#### 5. PHYSWELL 55 (Swim Conditioning)
 
 ------
 
