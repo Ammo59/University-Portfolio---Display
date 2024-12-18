@@ -64,7 +64,19 @@ This repository contains projects from undergraduate & graduate courses. Will co
 ### Quarter 4 (in Progress)
 #### 1. ME 204 (Advanced Mechanical Systems Design)
 - [ME 204 Course Description](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=ME+204%3A+Advanced+Mechanical+Systems+Design&collapse=)
-- Project 1 & 2 will be illustrated when course concludes
+
+##### Project 2: Motorized Impulse
+- Max Force, Minimum Mass
+- [Project_2---Description.pdf](https://github.com/user-attachments/files/18180207/Project_2---Description.pdf)
+- [Project 2---Testing Video](https://www.youtube.com/watch?v=0QQm4MrFlgw&list=PLlOMM6QeJYid5jTGHFZq7e_FFMMFJYO4Z&index=1&ab_channel=AramisKelkelyan)
+[comment]: <> (- [Project 2---Presentation](https://docs.google.com/presentation/d/1nB_n4bTM0Guvbd90BhRJDlxugWKhkIu_iJdrz7Unt0k/edit#slide=id.p1))
+
+
+##### Project 1: Controlled Compression
+- Exact Force & Distance, Minimum Mass
+- [Project_1---Description.pdf](https://github.com/user-attachments/files/18180203/Project_1---Description.pdf)
+- [Project 1---Testing Video](https://youtube.com/shorts/GCjbWMI3Al4)
+- [Project 1---Presentation](https://docs.google.com/presentation/d/1ghad_hjT9XzdyTXkeblCUaVNIVplAlrn4tQbMMHzSz0/edit#slide=id.p1)
 
 #### 2. CS 237A (Principles of Robot Autonomy I - Python & ROS)
 - [CS 237A Course Website](https://stanfordasl.github.io//PoRA-I/aa274a_aut2324/)
