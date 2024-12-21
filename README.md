@@ -87,7 +87,7 @@ This repository contains projects from undergraduate & graduate courses. Will co
 ##### Project 1: Controlled Compression
 - Exact Force & Distance, Minimum Mass
 - [Project_1---Description.pdf](https://github.com/user-attachments/files/18180203/Project_1---Description.pdf)
-- [Project 1---Testing Video]([https://youtube.com/shorts/GCjbWMI3Al4](https://youtu.be/n3VpLWCEH_0))
+- [Project 1---Testing Video](https://youtu.be/n3VpLWCEH_0)
 - [Project 1---Presentation](https://docs.google.com/presentation/d/1ghad_hjT9XzdyTXkeblCUaVNIVplAlrn4tQbMMHzSz0/edit#slide=id.p1)
 ![Proj_1_MoneyShot](https://github.com/user-attachments/assets/239cdca1-bf88-4724-ba49-1d9061c4358f)
 
