@@ -94,6 +94,7 @@ This repository contains projects from undergraduate & graduate courses. Will co
 #### 2. CS 237A (Principles of Robot Autonomy I - Python and ROS)
 - [CS 237A Course Website](https://stanfordasl.github.io//PoRA-I/aa274a_aut2324/)
 - [CS 237A Course Description](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=CS+237A%3A+Principles+of+Robot+Autonomy+I&collapse=)
+- [Robot Autonomy Section Videos](https://www.youtube.com/playlist?list=PLlOMM6QeJYifi24LsA6EZQYTzKT3ynOc2)
 
 #### 3. ARMLANG 395 (3rd Year Armenian Language)
 - Working on translating Vartouhe Kalantar's Diary (1918, right after the Armenian genocide) from Armenian to English
