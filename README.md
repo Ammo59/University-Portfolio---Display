@@ -80,7 +80,7 @@ This repository contains projects from undergraduate & graduate courses. Will co
 - Max Force, Minimum Mass
 - [Project_2---Description.pdf](https://github.com/user-attachments/files/18180207/Project_2---Description.pdf)
 - [Project 2---Testing Video](https://www.youtube.com/watch?v=0QQm4MrFlgw&list=PLlOMM6QeJYid5jTGHFZq7e_FFMMFJYO4Z&index=1&ab_channel=AramisKelkelyan)
-![RP_MoneyShot](https://github.com/user-attachments/assets/16a34df1-d7f3-485b-9881-6a3a0a5a50ab)
+![Proj_2_MoneyShot](https://github.com/user-attachments/assets/2a7fc998-78ad-4aa5-bc93-5f46688705a9)
 <!--- <> (- [Project 2---Presentation](https://docs.google.com/presentation/d/1nB_n4bTM0Guvbd90BhRJDlxugWKhkIu_iJdrz7Unt0k/edit#slide=id.p1)) -->
 
 
@@ -89,6 +89,7 @@ This repository contains projects from undergraduate & graduate courses. Will co
 - [Project_1---Description.pdf](https://github.com/user-attachments/files/18180203/Project_1---Description.pdf)
 - [Project 1---Testing Video](https://youtube.com/shorts/GCjbWMI3Al4)
 - [Project 1---Presentation](https://docs.google.com/presentation/d/1ghad_hjT9XzdyTXkeblCUaVNIVplAlrn4tQbMMHzSz0/edit#slide=id.p1)
+![Proj_1_MoneyShot](https://github.com/user-attachments/assets/239cdca1-bf88-4724-ba49-1d9061c4358f)
 
 #### 2. CS 237A (Principles of Robot Autonomy I - Python and ROS)
 - [CS 237A Course Website](https://stanfordasl.github.io//PoRA-I/aa274a_aut2324/)
