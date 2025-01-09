@@ -90,7 +90,7 @@ This repository contains projects from undergraduate & graduate courses. Will co
 - [Project_1---Description.pdf](https://github.com/user-attachments/files/18180203/Project_1---Description.pdf)
 - [Project 1---Testing Video](https://youtu.be/n3VpLWCEH_0)
 - [Project 1---Presentation](https://docs.google.com/presentation/d/1ghad_hjT9XzdyTXkeblCUaVNIVplAlrn4tQbMMHzSz0/edit#slide=id.p1)
-<img src="https://github.com/user-attachments/assets/239cdca1-bf88-4724-ba49-1d9061c4358f" alt="Proj 1 Moneyshot" width="500" height="500">
+<img src="https://github.com/user-attachments/assets/239cdca1-bf88-4724-ba49-1d9061c4358f" alt="Proj 1 Moneyshot" width="1000" height="500">
 <!--- ![Proj_1_MoneyShot](https://github.com/user-attachments/assets/239cdca1-bf88-4724-ba49-1d9061c4358f) -->
 
 #### 2. CS 237A (Principles of Robot Autonomy I - Python and ROS)
