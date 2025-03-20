@@ -58,18 +58,34 @@ This repository contains projects from undergraduate & graduate courses. Will co
 
 ------
 
-### Quarter 5 (in Progress)
+### Quarter 5
 #### 1. ME 203 (Design and Manufacturing)
+##### Term Project
+![REV2_HeroShot_JPG](https://github.com/user-attachments/assets/391a9f1f-8998-4084-8506-607089d069c3)
+![Vambrace on Display](https://github.com/user-attachments/assets/232ea38d-4dd4-4689-a13e-4e857cbd2400)
+Please refer to this projects portfolio for more details: [https://drive.google.com/drive/u/0/folders/1U_pZ4xgY_RIyUDosUt3XT-RPagAQFsjv](url)
+
+##### Structured Labs
+- Sand Casting
+- Metal Forming & Joining (Welding, Brazing, Riveting)
+- Milling
+- Turning
+- Finishing (Sanding, Grinding, Buffing, Polishing, etc.)
 
 #### 2. CS 224N (NLP with Deep Learning - Python)
 
 #### 3. CS 205L (Continuous Mathematical Methods with an Emphasis on Machine Learning)
+- Course Website: [https://web.stanford.edu/class/cs205l/lectures.html](url)|
+
+##### 205L Notes
+- [QuestionNotes_CS205L.pdf](https://github.com/user-attachments/files/19357034/QuestionNotes_CS205L.pdf)
+- [https://docs.google.com/document/d/1K4M32OQffnCRsr99eCwnCiGqkazHBn-OtqJ2VbFsEus/edit?usp=sharing](url)
 
 #### 4. ARMLANG 395 (3rd Year Armenian Language, Quarter 2)
-- Working on translating Vartouhe Kalantar's Diary (1918, right after the Armenian genocide) from Armenian to English
+- Continuing translation on Vartouhe Kalantar's Diary
 
-#### 5. PHYSWELL 35 (Intermediate Golf)
-
+#### 5. PHYSWELL 36 (Advanced Golf)
+- Have lots of YouTube videos of progress in development!
 ------
 
 ### Quarter 4
