@@ -90,7 +90,7 @@ Please refer to [this projects](https://drive.google.com/drive/u/0/folders/1U_pZ
 
 ##### 205L Notes
 - [Application Notes CS205L](https://github.com/user-attachments/files/19357034/QuestionNotes_CS205L.pdf)
-- [Lecture Notes CS205L](https://docs.google.com/document/d/1K4M32OQffnCRsr99eCwnCiGqkazHBn-OtqJ2VbFsEus/edit?usp=sharing)
+<!---  - [Lecture Notes CS205L](https://docs.google.com/document/d/1K4M32OQffnCRsr99eCwnCiGqkazHBn-OtqJ2VbFsEus/edit?usp=sharing) -->
 
 #### 3. ARMLANG 395 (3rd Year Armenian Language, Quarter 2)
 - Continuing translation on Vartouhe Kalantar's Diary
