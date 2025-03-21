@@ -54,11 +54,9 @@ This repository contains projects from undergraduate & graduate courses. Will co
   * [CS 11 (Intro to Computer Science - C++)](#1-cs-11-intro-to-computer-science---c)
   
   * [CS 22 (Data Structures and Algorithms - C++)](#2-cs-22-data-structures-and-algorithms---c)
-
+------
 
 ## Stanford University (in progress)
-
-------
 
 ### Quarter 6 (upcoming planned courses)
 #### 1. ME 318 (Computer-Aided Product Creation)
