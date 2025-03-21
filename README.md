@@ -3,7 +3,7 @@
 
   * [CS 205L (Continuous Mathematical Methods with an Emphasis on Machine Learning)](#2-cs-205l-continuous-mathematical-methods-with-an-emphasis-on-machine-learning)
 
-  * [ARMLANG 395 (3rd Year Armenian Language, Quarter 2)](#3-armlang-395-3rd-year-armenian-language,-quarter-2)
+  * [ARMLANG 395 (3rd Year Armenian Language, Quarter 2)](#3-armlang-395-3rd-year-armenian-language-quarter-2)
 
   * [PHYSWELL 36 (Advanced Golf)](#4-physwell-36-advanced-golf)
 
