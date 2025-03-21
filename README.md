@@ -99,6 +99,8 @@ Please refer to [this projects](https://drive.google.com/drive/u/0/folders/1U_pZ
 - Have lots of YouTube videos of progress in development!
 
 #### 5. CS 224N (NLP with Deep Learning - Python)
+- [NLP Course Website](https://web.stanford.edu/class/cs224n/index.html)
+- Project TBD
 ------
 
 ### Quarter 4
