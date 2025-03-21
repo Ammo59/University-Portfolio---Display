@@ -62,9 +62,11 @@ This repository contains projects from undergraduate & graduate courses. Will co
 
 #### 2. CS 231N (Deep Learning for Computer Vision)
 
-#### 4. PHYSWELL 36 (Advanced Golf)
+#### 3. PHYSWELL 36 (Advanced Golf, Quarter 3)
 
-#### 5. PHYSWELL 55 (Swim Conditioning)
+#### 4. PHYSWELL 55 (Swim Conditioning)
+
+#### 5. ARMLANG 395 (3rd Year Armenian Language, Quarter 3)
 
 ------
 
