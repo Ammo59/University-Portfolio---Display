@@ -1,4 +1,5 @@
 # Table of Contents
+## Graduate Courses
   * [ME 203 (Design and Manufacturing)](#1-me-203-design-and-manufacturing)
 
   * [CS 205L (Continuous Mathematical Methods with an Emphasis on Machine Learning)](#2-cs-205l-continuous-mathematical-methods-with-an-emphasis-on-machine-learning)
@@ -32,6 +33,8 @@
   * [ME 218A (Smart Product Design Fundamentals - C)](#1-me-218A-smart-product-design-fundamentals---c)
 
   * [CS 229 (Machine Learning - Python)](#2-cs-229-machine-learning---python)
+
+## Undergraduate Courses
 
   * [CECS 277 (Object-Oriented Application Development - Python)](#1-cecs-277-object-oriented-application-development---python)
   
