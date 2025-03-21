@@ -1,4 +1,14 @@
 # Table of Contents
+  * [ME 203 (Design and Manufacturing)](#1-me-203-design-and-manufacturing)
+
+  * [CS 205L (Continuous Mathematical Methods with an Emphasis on Machine Learning)](#2-cs-205l-continuous-mathematical-methods-with-an-emphasis-on-machine-learning)
+
+  * [ARMLANG 395 (3rd Year Armenian Language)](#3-armlang-395-3rd-year-armenian-language)
+
+  * [PHYSWELL 36 (Golf)](#4-physwell-36-golf)
+
+  * [CS 224N (NLP with Deep Learning - Python)](#5-cs-224n-NLP-with-deep-learning-python)
+  
   * [ME 204 (Advanced Mechanical Systems Design)](#1-me-204-advanced-mechanical-systems-design)
 
   * [CS 237A (Principles of Robot Autonomy I - Python and ROS)](#2-cs-237a-principles-of-robot-autonomy-i---python-and-ros)
@@ -63,29 +73,30 @@ This repository contains projects from undergraduate & graduate courses. Will co
 ##### Term Project
 ![REV2_HeroShot_JPG](https://github.com/user-attachments/assets/391a9f1f-8998-4084-8506-607089d069c3)
 ![Vambrace on Display](https://github.com/user-attachments/assets/232ea38d-4dd4-4689-a13e-4e857cbd2400)
-Please refer to this projects portfolio for more details: [https://drive.google.com/drive/u/0/folders/1U_pZ4xgY_RIyUDosUt3XT-RPagAQFsjv](url)
+Please refer to [this projects](https://drive.google.com/drive/u/0/folders/1U_pZ4xgY_RIyUDosUt3XT-RPagAQFsjv) portfolio for more details.
 
 ##### Structured Labs
+![Structured Lab Result](https://github.com/user-attachments/assets/9c62592a-ccf3-45f2-bb81-0cd6ba271a61)
 - Sand Casting
 - Metal Forming & Joining (Welding, Brazing, Riveting)
 - Milling
 - Turning
 - Finishing (Sanding, Grinding, Buffing, Polishing, etc.)
 
-#### 2. CS 224N (NLP with Deep Learning - Python)
-
-#### 3. CS 205L (Continuous Mathematical Methods with an Emphasis on Machine Learning)
-- Course Website: [https://web.stanford.edu/class/cs205l/lectures.html](url)|
+#### 2. CS 205L (Continuous Mathematical Methods with an Emphasis on Machine Learning)
+- [CS 205L Course Website](https://web.stanford.edu/class/cs205l/lectures.html)|
 
 ##### 205L Notes
-- [QuestionNotes_CS205L.pdf](https://github.com/user-attachments/files/19357034/QuestionNotes_CS205L.pdf)
-- [https://docs.google.com/document/d/1K4M32OQffnCRsr99eCwnCiGqkazHBn-OtqJ2VbFsEus/edit?usp=sharing](url)
+- [Application Notes CS205L](https://github.com/user-attachments/files/19357034/QuestionNotes_CS205L.pdf)
+- [Lecture Notes CS205L](https://docs.google.com/document/d/1K4M32OQffnCRsr99eCwnCiGqkazHBn-OtqJ2VbFsEus/edit?usp=sharing)
 
-#### 4. ARMLANG 395 (3rd Year Armenian Language, Quarter 2)
+#### 3. ARMLANG 395 (3rd Year Armenian Language, Quarter 2)
 - Continuing translation on Vartouhe Kalantar's Diary
 
-#### 5. PHYSWELL 36 (Advanced Golf)
+#### 4. PHYSWELL 36 (Advanced Golf)
 - Have lots of YouTube videos of progress in development!
+
+#### 5. CS 224N (NLP with Deep Learning - Python)
 ------
 
 ### Quarter 4
