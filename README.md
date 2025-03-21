@@ -3,12 +3,12 @@
 
   * [CS 205L (Continuous Mathematical Methods with an Emphasis on Machine Learning)](#2-cs-205l-continuous-mathematical-methods-with-an-emphasis-on-machine-learning)
 
-  * [ARMLANG 395 (3rd Year Armenian Language)](#3-armlang-395-3rd-year-armenian-language)
+  * [ARMLANG 395 (3rd Year Armenian Language, Quarter 2)](#3-armlang-395-3rd-year-armenian-language,-quarter-2)
 
-  * [PHYSWELL 36 (Golf)](#4-physwell-36-golf)
+  * [PHYSWELL 36 (Advanced Golf)](#4-physwell-36-advanced-golf)
 
-  * [CS 224N (NLP with Deep Learning - Python)](#5-cs-224n-NLP-with-deep-learning-python)
-  
+  * [CS 224N (NLP with Deep Learning - Python)](#5-cs-224n-nlp-with-deep-learning---python)
+
   * [ME 204 (Advanced Mechanical Systems Design)](#1-me-204-advanced-mechanical-systems-design)
 
   * [CS 237A (Principles of Robot Autonomy I - Python and ROS)](#2-cs-237a-principles-of-robot-autonomy-i---python-and-ros)
@@ -76,7 +76,7 @@ This repository contains projects from undergraduate & graduate courses. Will co
 Please refer to [this projects](https://drive.google.com/drive/u/0/folders/1U_pZ4xgY_RIyUDosUt3XT-RPagAQFsjv) portfolio for more details.
 
 ##### Structured Labs
-![Structured Lab Result](https://github.com/user-attachments/assets/9c62592a-ccf3-45f2-bb81-0cd6ba271a61)
+![Structured Lab Result](https://github.com/user-attachments/assets/9a91c45b-6232-4094-8d42-74d589df1864)
 - Sand Casting
 - Metal Forming & Joining (Welding, Brazing, Riveting)
 - Milling
