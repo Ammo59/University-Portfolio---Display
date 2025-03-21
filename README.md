@@ -84,7 +84,7 @@ Please refer to [this projects](https://drive.google.com/drive/u/0/folders/1U_pZ
 - Finishing (Sanding, Grinding, Buffing, Polishing, etc.)
 
 #### 2. CS 205L (Continuous Mathematical Methods with an Emphasis on Machine Learning)
-- [CS 205L Course Website](https://web.stanford.edu/class/cs205l/lectures.html)|
+- [CS 205L Course Website](https://web.stanford.edu/class/cs205l/lectures.html)
 
 ##### 205L Notes
 - [Application Notes CS205L](https://github.com/user-attachments/files/19357034/QuestionNotes_CS205L.pdf)
