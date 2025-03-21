@@ -1,3 +1,6 @@
+# University Portfolio
+This repository contains projects from undergraduate & graduate courses. Will continue to update!
+------
 # Table of Contents
 ## Graduate Courses
   * [ME 203 (Design and Manufacturing)](#1-me-203-design-and-manufacturing)
@@ -51,9 +54,6 @@
   * [CS 11 (Intro to Computer Science - C++)](#1-cs-11-intro-to-computer-science---c)
   
   * [CS 22 (Data Structures and Algorithms - C++)](#2-cs-22-data-structures-and-algorithms---c)
-
-# University Portfolio
-This repository contains projects from undergraduate & graduate courses. Will continue to update!
 ------
 
 ## Stanford University (in progress)
