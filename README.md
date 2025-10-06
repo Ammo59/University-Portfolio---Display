@@ -61,6 +61,10 @@ This repository contains projects from undergraduate & graduate courses. Will co
 ### Quarter 6 (upcoming planned courses)
 #### 1. ME 318 (Computer-Aided Product Creation)
 
+##### Keeper's Bloom
+
+##### Warbling Whistle
+
 #### 2. CS 231N (Deep Learning for Computer Vision)
 
 #### 3. PHYSWELL 36 (Advanced Golf, Quarter 3)
