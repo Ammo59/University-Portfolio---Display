@@ -4,29 +4,43 @@ This repository contains projects from undergraduate & graduate courses. Will co
 # Table of Contents
 ## Graduate Courses
 - **Mechanical Engineering**
-  - [ME 318 — Computer-Aided Product Creation](#me-318)
-  - [ME 203 — Design & Manufacturing](#me-203)
-  - [ME 204 — Advanced Mechanical Systems Design](#me-204)
-  - [ME 218A — Smart Product Design Fundamentals (C)](#me-218a)
-  - [ME 218B — Smart Product Design Applications (C)](#me-218b)
-  - [ME 218C — Smart Product Design Practice (C)](#me-218c)
+  - [ME 318 — Computer-Aided Product Creation](#1-me-318-computer-aided-product-creation)
+  - [ME 203 — Design & Manufacturing](#1-me-203-design-and-manufacturing)
+  - [ME 204 — Advanced Mechanical Systems Design](#1-me-204-advanced-mechanical-systems-design)
+  - [ME 218A — Smart Product Design Fundamentals (C)](#1-me-218A-smart-product-design-fundamentals---c)
+  - [ME 218B — Smart Product Design Applications (C)](#1-me-218b-smart-product-design-applications---c)
+  - [ME 218C — Smart Product Design Practice (C)](#1-me-218c-smart-product-design-practice---c)
 
 - **Computer Science**
-  - [CS 205L — Continuous Mathematical Methods (ML emphasis)](#cs-205l)
-  - [CS 224N — NLP with Deep Learning (Python)](#cs-224n)
-  - [CS 229 — Machine Learning (Python)](#cs-229)
-  - [CS 231N — Deep Learning for Computer Vision](#cs-231n)
-  - [CS 237A — Principles of Robot Autonomy I (Python / ROS)](#cs-237a)
-  - [CS 529 — Robotics & Autonomous Systems Seminar](#cs-529)
+  - [CS 205L — Continuous Mathematical Methods (ML emphasis)](#2-cs-205l-continuous-mathematical-methods-with-an-emphasis-on-machine-learning)
+  - [CS 224N — NLP with Deep Learning (Python)](#5-cs-224n-nlp-with-deep-learning---python)
+  - [CS 229 — Machine Learning (Python)](#2-cs-229-machine-learning---python)
+  - [CS 231N — Deep Learning for Computer Vision](#2-cs-231n-deep-learning-for-computer-vision)
+  - [CS 237A — Principles of Robot Autonomy I (Python / ROS)](#2-cs-237a-principles-of-robot-autonomy-i---python-and-ros)
+  - [CS 529 — Robotics & Autonomous Systems Seminar](#3-cs-529-robotics--autonomous-systems-seminar)
 
 - **Other Graduate**
-  - [MS&E 297 — Hacking For Defense](#mse-297)
-  - [ARMLANG 395 — 3rd Year Armenian Language (all quarters)](#armlang-395)
-  - [CME 106 — Probability & Statistics for Engineers (MATLAB)](#cme-106)
-  - [PHYSWELL 36 — Advanced Golf](#physwell-36)
-  - [PHYSWELL 33 — Golf](#physwell-33)
-  - [PHYSWELL 54 — Swimming Stroke Refinement](#physwell-54)
-  - [PHYSWELL 55 — Swim Conditioning](#physwell-55)
+  - [MS&E 297 — Hacking For Defense](#2-mse-297-hacking-for-defense)
+  - [ARMLANG 395 — 3rd Year Armenian Language](#3-armlang-395-3rd-year-armenian-language-quarter-3)  <!-- quarter 3 shown — if you want I can unify -->
+  - [CME 106 — Probability & Statistics for Engineers (MATLAB)](#2-cme-106-probability-and-statistics-for-engineers---matlab)
+  - [PHYSWELL 36 — Advanced Golf](#4-physwell-36-advanced-golf)
+  - [PHYSWELL 33 — Golf](#4-physwell-33-golf)
+  - [PHYSWELL 54 — Swimming Stroke Refinement](#5-physwell-54-swimming-stroke-refinement)
+  - [PHYSWELL 55 — Swim Conditioning](#5-physwell-55-swim-conditioning)
+
+## Undergraduate Courses
+- **Mechanical Engineering / MAE**
+  - [MAE 205 — Computer Methods (MATLAB)](#2-mae-205-computer-methods---matlab-classworkhomework)
+  - [MAE 305 — Numerical Methods (MATLAB)](#3-mae-305-numerical-methods---matlab)
+  - [MAE 375 — Kinematics & Dynamics of Mechanisms (MATLAB)](#4-mae-375-kinematics-and-dynamics-of-mechanisms---matlab)
+  - [MAE 376 — Modeling & Analysis of Dynamic Systems (MATLAB)](#5-mae-376-modeling-and-analysis-of-dynamic-systems---matlab)
+  - [MAE 476 — Mechanical Control Systems (MATLAB)](#6-mae-476-mechanical-control-systems---matlab)
+
+- **Computer Science**
+  - [CECS 277 — Object-Oriented Application Development (Python)](#1-cecs-277-object-oriented-application-development---python)
+  - [CS 11 — Intro to Computer Science (C++)](#1-cs-11-intro-to-computer-science---c)
+  - [CS 22 — Data Structures & Algorithms (C++)](#2-cs-22-data-structures-and-algorithms---c)
+
  <!--
   * [ME 318 (Computer-Aided Product Creation)](#1-me-318-computer-aided-product-creation)
 
