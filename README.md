@@ -3,6 +3,31 @@ This repository contains projects from undergraduate & graduate courses. Will co
 ------
 # Table of Contents
 ## Graduate Courses
+- **Mechanical Engineering**
+  - [ME 318 — Computer-Aided Product Creation](#me-318)
+  - [ME 203 — Design & Manufacturing](#me-203)
+  - [ME 204 — Advanced Mechanical Systems Design](#me-204)
+  - [ME 218A — Smart Product Design Fundamentals (C)](#me-218a)
+  - [ME 218B — Smart Product Design Applications (C)](#me-218b)
+  - [ME 218C — Smart Product Design Practice (C)](#me-218c)
+
+- **Computer Science**
+  - [CS 205L — Continuous Mathematical Methods (ML emphasis)](#cs-205l)
+  - [CS 224N — NLP with Deep Learning (Python)](#cs-224n)
+  - [CS 229 — Machine Learning (Python)](#cs-229)
+  - [CS 231N — Deep Learning for Computer Vision](#cs-231n)
+  - [CS 237A — Principles of Robot Autonomy I (Python / ROS)](#cs-237a)
+  - [CS 529 — Robotics & Autonomous Systems Seminar](#cs-529)
+
+- **Other Graduate**
+  - [MS&E 297 — Hacking For Defense](#mse-297)
+  - [ARMLANG 395 — 3rd Year Armenian Language (all quarters)](#armlang-395)
+  - [CME 106 — Probability & Statistics for Engineers (MATLAB)](#cme-106)
+  - [PHYSWELL 36 — Advanced Golf](#physwell-36)
+  - [PHYSWELL 33 — Golf](#physwell-33)
+  - [PHYSWELL 54 — Swimming Stroke Refinement](#physwell-54)
+  - [PHYSWELL 55 — Swim Conditioning](#physwell-55)
+ <!--
   * [ME 318 (Computer-Aided Product Creation)](#1-me-318-computer-aided-product-creation)
 
   * [CS 231N (Deep Learning for Computer Vision)](#2-cs-231n-deep-learning-for-computer-vision)
@@ -64,6 +89,7 @@ This repository contains projects from undergraduate & graduate courses. Will co
   * [CS 11 (Intro to Computer Science - C++)](#1-cs-11-intro-to-computer-science---c)
   
   * [CS 22 (Data Structures and Algorithms - C++)](#2-cs-22-data-structures-and-algorithms---c)
+  -->
 ------
 
 ## Stanford University (in progress)
