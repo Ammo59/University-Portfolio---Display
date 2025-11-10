@@ -73,7 +73,9 @@ This repository contains projects from undergraduate & graduate courses. Will co
 
 ##### Keeper's Bloom
 <img width="968" height="545" alt="image" src="https://github.com/user-attachments/assets/fc488b45-083d-4434-b52b-5d89d573fea1" />
+
 - [Keeper's Bloom Showcase Video](https://www.youtube.com/watch?v=phxSJLL2SBk&list=PLlOMM6QeJYidljJv8__rOHwEcKDZmR6vc&index=3)
+
 - [Keeper's Bloom Presentation Slides](https://docs.google.com/presentation/d/1D_gvG0g_po-jJcrD_xW-dYV6ihN43Yhv6KdVP-lbJlQ/edit?usp=sharing)
 
 ##### Warbling Whistle
