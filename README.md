@@ -1,8 +1,18 @@
-# University Portfolio
+<img width="968" height="545" alt="image" src="https://github.com/user-attachments/assets/c10bcefa-5dd8-42a9-b931-96c2fadd1db9" /># University Portfolio
 This repository contains projects from undergraduate & graduate courses. Will continue to update!
 ------
 # Table of Contents
 ## Graduate Courses
+  * [ME 318 (Computer-Aided Product Creation)](#1-me-318-computer-aided-product-creation)
+
+  * [CS 231N (Deep Learning for Computer Vision)](#2-cs-231n-deep-learning-for-computer-vision)
+  
+  * [ARMLANG 395 (3rd Year Armenian Language, Quarter 3)](#3-armlang-395-3rd-year-armenian-language-quarter-3)
+ 
+  * [PHYSWELL 36 (Advanced Golf, Quarter 3)](#4-physwell-36-advanced-golf-quarter-3)
+
+  * [PHYSWELL 55 (Swim Conditioning)](#5-physwell-55-swim-conditioning)
+ 
   * [ME 203 (Design and Manufacturing)](#1-me-203-design-and-manufacturing)
 
   * [CS 205L (Continuous Mathematical Methods with an Emphasis on Machine Learning)](#2-cs-205l-continuous-mathematical-methods-with-an-emphasis-on-machine-learning)
@@ -62,16 +72,27 @@ This repository contains projects from undergraduate & graduate courses. Will co
 #### 1. ME 318 (Computer-Aided Product Creation)
 
 ##### Keeper's Bloom
+<img width="968" height="545" alt="image" src="https://github.com/user-attachments/assets/fc488b45-083d-4434-b52b-5d89d573fea1" />
+- [Keeper's Bloom Showcase Video](https://www.youtube.com/watch?v=phxSJLL2SBk&list=PLlOMM6QeJYidljJv8__rOHwEcKDZmR6vc&index=3)
+- [Keeper's Bloom Presentation Slides](https://docs.google.com/presentation/d/1D_gvG0g_po-jJcrD_xW-dYV6ihN43Yhv6KdVP-lbJlQ/edit?usp=sharing)
 
 ##### Warbling Whistle
+![IMG_5450](https://github.com/user-attachments/assets/cde8288c-651a-40bc-a482-69ea6ad1ebd9)
+- [Warbling Whistle Demo](https://www.youtube.com/shorts/J3_soEpsV7I)
+- [Warbling Whitle Presentation Slides](https://docs.google.com/presentation/d/1AWAN94oLKhBgbdIeHEMrURzDRVb57CYygeX6Exs2_hY/edit?usp=sharing)
 
 #### 2. CS 231N (Deep Learning for Computer Vision)
+- [CS 231 Website](https://cs231n.stanford.edu/)
+- Studied DL methods for visual recognition tasks such as image classification and object detection; hands-on experience in training and debugging CNNs
 
-#### 3. PHYSWELL 36 (Advanced Golf, Quarter 3)
+#### 3. ARMLANG 395 (3rd Year Armenian Language, Quarter 3)
+- [Vartouhe Kalantar Source before Translation](https://drive.google.com/file/d/1Ly9BftGX6OmYm99ae3z42FVFTcy61YdC/view?usp=sharing)
 
-#### 4. PHYSWELL 55 (Swim Conditioning)
+#### 4. PHYSWELL 36 (Advanced Golf, Quarter 3)
+- Applied learned skills on the Stanford golf course 
 
-#### 5. ARMLANG 395 (3rd Year Armenian Language, Quarter 3)
+#### 5. PHYSWELL 55 (Swim Conditioning)
+- To maintain cardio, stamina, and shape.
 
 ------
 
@@ -101,11 +122,11 @@ Please refer to [this projects](https://drive.google.com/drive/u/0/folders/1U_pZ
 - Continuing translation on Vartouhe Kalantar's Diary
 
 #### 4. PHYSWELL 36 (Advanced Golf)
-- Have lots of YouTube videos of progress in development!
+- Continued training golf advanced skills under Stanford club coaching
 
 #### 5. CS 224N (NLP with Deep Learning - Python)
 - [NLP Course Website](https://web.stanford.edu/class/cs224n/index.html)
-- Project TBD
+- Explored neural network architectures for NLP tasks, including transformers and large language models, with practical implementation using PyTorch
 ------
 
 ### Quarter 4
@@ -140,7 +161,7 @@ Please refer to [this projects](https://drive.google.com/drive/u/0/folders/1U_pZ
 - Working on translating Vartouhe Kalantar's Diary (1918, right after the Armenian genocide) from Armenian to English
 
 #### 4. PHYSWELL 33 (Golf)
-- Have lots of YouTube videos of progress in development!
+- Trained golf fundamentals under Stanford club coaching
 
 #### 5. PHYSWELL 54 (Swimming Stroke Refinement)
 - To keep good cardio stamina / shape
