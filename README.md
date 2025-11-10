@@ -3,7 +3,7 @@ This repository contains projects from undergraduate & graduate courses. Will co
 ------
 # Table of Contents
 ## Graduate Courses
-- **Mechanical Engineering**
+- **Mechanical Engineering & Mechatronics**
   - [ME 318 — Computer-Aided Product Creation](#1-me-318-computer-aided-product-creation)
   - [ME 203 — Design & Manufacturing](#1-me-203-design-and-manufacturing)
   - [ME 204 — Advanced Mechanical Systems Design](#1-me-204-advanced-mechanical-systems-design)
