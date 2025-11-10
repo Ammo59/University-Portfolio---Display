@@ -1,4 +1,4 @@
-<img width="968" height="545" alt="image" src="https://github.com/user-attachments/assets/c10bcefa-5dd8-42a9-b931-96c2fadd1db9" /># University Portfolio
+# University Portfolio
 This repository contains projects from undergraduate & graduate courses. Will continue to update!
 ------
 # Table of Contents
@@ -78,7 +78,7 @@ This repository contains projects from undergraduate & graduate courses. Will co
 
 ##### Warbling Whistle
 ![IMG_5450](https://github.com/user-attachments/assets/cde8288c-651a-40bc-a482-69ea6ad1ebd9)
-- [Warbling Whistle Demo](https://www.youtube.com/shorts/J3_soEpsV7I)
+- [Warbling Whistle Demo Video](https://www.youtube.com/shorts/J3_soEpsV7I)
 - [Warbling Whitle Presentation Slides](https://docs.google.com/presentation/d/1AWAN94oLKhBgbdIeHEMrURzDRVb57CYygeX6Exs2_hY/edit?usp=sharing)
 
 #### 2. CS 231N (Deep Learning for Computer Vision)
