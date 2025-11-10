@@ -1,5 +1,5 @@
 # University Portfolio
-This repository contains projects from undergraduate & graduate courses. Will continue to update!
+This repository contains projects from undergraduate & graduate courses.
 ------
 # Table of Contents
 ## Graduate Courses
