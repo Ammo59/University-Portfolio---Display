@@ -141,7 +141,10 @@ This repository contains projects from undergraduate & graduate courses.
 #### 1. ME 203 (Design and Manufacturing)
 ##### Term Project
 ![REV2_HeroShot_JPG](https://github.com/user-attachments/assets/391a9f1f-8998-4084-8506-607089d069c3)
-![Vambrace on Display](https://github.com/user-attachments/assets/232ea38d-4dd4-4689-a13e-4e857cbd2400)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/232ea38d-4dd4-4689-a13e-4e857cbd2400" width="600">
+</p>
+<!-- ![Vambrace on Display](https://github.com/user-attachments/assets/232ea38d-4dd4-4689-a13e-4e857cbd2400) -->
 Please refer to [this projects](https://drive.google.com/drive/u/0/folders/1U_pZ4xgY_RIyUDosUt3XT-RPagAQFsjv) portfolio for more details.
 
 ##### Structured Labs
