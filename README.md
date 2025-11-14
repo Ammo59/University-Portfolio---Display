@@ -142,7 +142,7 @@ This repository contains projects from undergraduate & graduate courses.
 ##### Term Project
 ![REV2_HeroShot_JPG](https://github.com/user-attachments/assets/391a9f1f-8998-4084-8506-607089d069c3)
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/232ea38d-4dd4-4689-a13e-4e857cbd2400" height="500">
+  <img src="https://github.com/user-attachments/assets/232ea38d-4dd4-4689-a13e-4e857cbd2400" height="550">
 </p>
 
 Please refer to [this projects](https://drive.google.com/drive/u/0/folders/1U_pZ4xgY_RIyUDosUt3XT-RPagAQFsjv) portfolio for more details.
