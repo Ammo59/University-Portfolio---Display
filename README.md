@@ -143,8 +143,12 @@ This repository contains projects from undergraduate & graduate courses.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/391a9f1f-8998-4084-8506-607089d069c3">
   <img src="https://github.com/user-attachments/assets/232ea38d-4dd4-4689-a13e-4e857cbd2400" width="700">
-</p><br>
-Please refer to <a href="https://drive.google.com/drive/u/0/folders/1U_pZ4xgY_RIyUDosUt3XT-RPagAQFsjv">this project's</a> portfolio for more details.
+</p>
+
+Please refer to [this project's](https://drive.google.com/drive/u/0/folders/1U_pZ4xgY_RIyUDosUt3XT-RPagAQFsjv) portfolio for more details.
+
+
+**Structured Labs**
 <!-- ![REV2_HeroShot_JPG](https://github.com/user-attachments/assets/391a9f1f-8998-4084-8506-607089d069c3)
 ![Vambrace on Display](https://github.com/user-attachments/assets/232ea38d-4dd4-4689-a13e-4e857cbd2400) -->
 
