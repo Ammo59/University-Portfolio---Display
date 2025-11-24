@@ -19,6 +19,13 @@ This repository contains projects from undergraduate & graduate courses.
   - [CS 237A — Principles of Robot Autonomy I (Python / ROS)](#2-cs-237a-principles-of-robot-autonomy-i---python-and-ros)
   - [CS 529 — Robotics & Autonomous Systems Seminar](#3-cs-529-robotics--autonomous-systems-seminar)
 
+- **Extracurriculars** (links to be inserted soon)
+  - Tsitsinakaberd Monument Replica
+  - Long Beach Rocketry (LBR)
+    - 2022 - 2023
+    - 2021 - 2022
+    - 2020 - 2021
+
 - **Other Graduate**
   - [MS&E 297 — Hacking For Defense](#2-mse-297-hacking-for-defense)
   - [ARMLANG 395 — 3rd Year Armenian Language](#3-armlang-395-3rd-year-armenian-language-quarter-3)  <!-- quarter 3 shown — if you want I can unify -->
@@ -34,7 +41,8 @@ This repository contains projects from undergraduate & graduate courses.
   - [MAE 305 — Numerical Methods (MATLAB)](#3-mae-305-numerical-methods---matlab)
   - [MAE 375 — Kinematics & Dynamics of Mechanisms (MATLAB)](#4-mae-375-kinematics-and-dynamics-of-mechanisms---matlab)
   - [MAE 376 — Modeling & Analysis of Dynamic Systems (MATLAB)](#5-mae-376-modeling-and-analysis-of-dynamic-systems---matlab)
-  - [MAE 476 — Mechanical Control Systems (MATLAB)](#6-mae-476-mechanical-control-systems---matlab)
+  - [MAE 471/472 - Design and Analysis of Mechanical Engineering Systems](#6-mae-471/472---design-and-analysis-of-mechanical-engineering-systems)
+  - [MAE 476 — Mechanical Control Systems (MATLAB)](#7-mae-476-mechanical-control-systems---matlab)
 
 - **Computer Science**
   - [CECS 277 — Object-Oriented Application Development (Python)](#1-cecs-277-object-oriented-application-development---python)
@@ -366,7 +374,24 @@ Coursework: Covers Fourbar and Fivebar linkages
 
 ------
 
-#### 6. MAE 476 (Mechanical Control Systems - MATLAB) 
+#### 6. MAE 471/472 - Design and Analysis of Mechanical Engineering Systems
+| Lecture No. | Name | PDF |
+| :------------: | :-------------: | :-------------: |
+| 1 | GD&T | [L01 - GD&T.pdf](https://github.com/user-attachments/files/23698755/L01.-.GD.T.pdf) |
+| 2 | More GD&T | [L02 - More GD&T.pdf](https://github.com/user-attachments/files/23698761/L02.-.More.GD.T.pdf) |
+| 3 | Tolerances & Fits | [L03_Tolerances and Fits.pdf](https://github.com/user-attachments/files/23702264/L03_Tolerances.and.Fits.pdf) |
+| 4 | Transmission Shaft Design & Analysis | [L04_Transmission Shaft Design and Analysis.pdf](https://github.com/user-attachments/files/23702268/L04_Transmission.Shaft.Design.and.Analysis.pdf) |
+| 5 | Bearings | [L05_Bearings.pdf](https://github.com/user-attachments/files/23702271/L05_Bearings.pdf) |
+| 6 | Bearing Selection & Force Analysis | [L06_Bearing Selection and Force Analysis.pdf](https://github.com/user-attachments/files/23702272/L06_Bearing.Selection.and.Force.Analysis.pdf) |
+| 7 | Bearing Lubrication | [L07_Bearing Lubrication.pdf](https://github.com/user-attachments/files/23702274/L07_Bearing.Lubrication.pdf) |
+| 8 | Belt Drive Mechanism | [L08_Belt Drive Mechanisms.pdf](https://github.com/user-attachments/files/23702276/L08_Belt.Drive.Mechanisms.pdf) |
+| 9 | Clutch & Brake | [L09_Clutch & Brake.pdf](https://github.com/user-attachments/files/23702215/L09_Clutch.Brake.pdf) |
+| 10 | Brakes (cont.), Flywheels, and Springs | [L10_Brakes (cont.), Flywheels, and Springs.pdf](https://github.com/user-attachments/files/23702209/L10_Brakes.cont.Flywheels.and.Springs.pdf) |
+| 11 | Welding & Brazing | [L11_Welding_Brazing.pdf](https://github.com/user-attachments/files/23702205/L11_Welding_Brazing.pdf) |
+
+------
+
+#### 7. MAE 476 (Mechanical Control Systems - MATLAB) 
 Homework: 
 
 | Chapter No. | Name | Key Topics | Figures |
