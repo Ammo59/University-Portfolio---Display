@@ -41,7 +41,7 @@ This repository contains projects from undergraduate & graduate courses.
   - [MAE 305 — Numerical Methods (MATLAB)](#3-mae-305-numerical-methods---matlab)
   - [MAE 375 — Kinematics & Dynamics of Mechanisms (MATLAB)](#4-mae-375-kinematics-and-dynamics-of-mechanisms---matlab)
   - [MAE 376 — Modeling & Analysis of Dynamic Systems (MATLAB)](#5-mae-376-modeling-and-analysis-of-dynamic-systems---matlab)
-  - [MAE 471/472 - Design and Analysis of Mechanical Engineering Systems](#6-mae-471/472---design-and-analysis-of-mechanical-engineering-systems)
+  - [MAE 471/472 - Design and Analysis of Mechanical Engineering Systems](#6-mae-471472---design-and-analysis-of-mechanical-engineering-systems)
   - [MAE 476 — Mechanical Control Systems (MATLAB)](#7-mae-476-mechanical-control-systems---matlab)
 
 - **Computer Science**
