@@ -124,7 +124,7 @@ This repository contains projects from undergraduate & graduate courses.
 
 - [Keeper's Bloom Showcase Video](https://www.youtube.com/watch?v=phxSJLL2SBk&list=PLlOMM6QeJYidljJv8__rOHwEcKDZmR6vc&index=3)
 - [Keeper's Bloom Presentation Slides](https://docs.google.com/presentation/d/1D_gvG0g_po-jJcrD_xW-dYV6ihN43Yhv6KdVP-lbJlQ/edit?usp=sharing)
-- [Keeper's Bloom Engineering Drawing.pdf](https://github.com/user-attachments/files/23831875/DrawingUpdated.pdf)
+- [Keeper's Bloom Engineering Drawing.pdf](https://drive.google.com/file/d/18fSM7QbdrcN2WmlMunvhszChDKPNnL-1/view?usp=sharing)
 
 ##### Warbling Whistle
 ![IMG_5450](https://github.com/user-attachments/assets/cde8288c-651a-40bc-a482-69ea6ad1ebd9)
@@ -139,14 +139,15 @@ This repository contains projects from undergraduate & graduate courses.
 - [Vartouhe Kalantar Source before Translation](https://drive.google.com/file/d/1Ly9BftGX6OmYm99ae3z42FVFTcy61YdC/view?usp=sharing)
 
 #### Tsisternakaberd Monument
-Daytime | Nighttime
-:-------------------------:|:-------------------------:
-![Nighttime Tsitsernakaberd](https://github.com/user-attachments/assets/e3b4d6f8-57a2-445a-8529-23a2eb514668) | ![Daytime Tsitsernakaberd](https://github.com/user-attachments/assets/ec1df645-7532-4f8b-9f32-bc92efdad8d1)
-<img width="443" height="619" alt="Message Tsitsernakaberd" src="https://github.com/user-attachments/assets/32c4f851-1b46-40a8-8ef3-0e104980a974" />
+<p align="center">
+  ![Nighttime Tsitsernakaberd](https://github.com/user-attachments/assets/e3b4d6f8-57a2-445a-8529-23a2eb514668)
+  <img width="382" height="570" alt="Message Tsitsernakaberd" src="https://github.com/user-attachments/assets/74f367ac-f5ea-4b3b-9d0b-9d6d8f67127c" />
+</p> 
 
 ##### Tsitsernakaberd Videos
 - [Setup Timelapse of Monument](https://youtu.be/4-tfz0yhy-I)
 - [Significance Behind the Tsitsernakaberd Monument](https://youtu.be/CFrW68EBW0M?si=uGSUCT9WN0cTWCUL)
+
 
 #### 4. PHYSWELL 36 (Advanced Golf, Quarter 3)
 - Applied learned skills on the Stanford golf course 
