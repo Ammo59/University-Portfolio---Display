@@ -142,7 +142,7 @@ Studied DL methods for visual recognition tasks such as image classification and
 Laser Cut, Slip-rolled, and assembled a replica of the [Tsitsernakaberd Monument](https://www.google.com/search?sca_esv=f5688d6b1e23e673&sxsrf=AE3TifO4M-dvb1tB2wwXwDoPdwdgpIWjfQ:1764400782406&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeqDdErwP5rACeJAty2zADJgYJpo1blvMpITBRgbnARM6y8KwxzRsF24u6g33NutBQod-bHaq-BaxULyF1bB2UqwqC_KRRdLkjFlrDQV-l3gDieAmZMkWuwaitIwon-RBD0kLLB2McdTIS7T6QoLEPs_QDlziji_cf7qQQmTW_oTtzu55rQ&q=tsitsernakaberd&sa=X&ved=2ahUKEwi3x4GP6ZaRAxXmIEQIHX5iCdsQtKgLegQIDRAB&biw=1672&bih=894&dpr=1).
 <p align="center">
   <img width="878" alt="Nighttime Tsitsernakaberd" src="https://github.com/user-attachments/assets/016f1bcf-bd72-47a1-ba9a-38e06b018a43" />
-  <img width="600"  alt="Message Tsitsernakaberd" src="https://github.com/user-attachments/assets/74f367ac-f5ea-4b3b-9d0b-9d6d8f67127c" />
+  <img width="550"  alt="Message Tsitsernakaberd" src="https://github.com/user-attachments/assets/74f367ac-f5ea-4b3b-9d0b-9d6d8f67127c" />
 </p> 
 
 ##### Tsitsernakaberd Videos
@@ -173,10 +173,19 @@ Please refer to [this project's](https://drive.google.com/drive/u/0/folders/1U_p
 **Structured Labs**
 ![Structured Lab Result](https://github.com/user-attachments/assets/9a91c45b-6232-4094-8d42-74d589df1864)
 - Sand Casting
-- Metal Forming & Joining (Welding, Brazing, Riveting)
+- Metal Forming & Joining (Oxy-Acetylene Welding, Brazing, Riveting)
 - Milling
 - Turning
 - Finishing (Sanding, Grinding, Buffing, Polishing, etc.)
+
+**Workshops**
+- Waterjet Cutting
+- TIG Welding
+- Sand Casting Pattern-Making Workshop
+- Woodworking
+- Wood Lathe
+- Bead-Blasting
+- Powder Coating
 
 #### 2. CS 205L (Continuous Mathematical Methods with an Emphasis on Machine Learning)
 - [CS 205L Course Website](https://web.stanford.edu/class/cs205l/lectures.html)
