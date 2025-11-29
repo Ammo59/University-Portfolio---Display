@@ -124,7 +124,7 @@ This repository contains projects from undergraduate & graduate courses.
 
 - [Keeper's Bloom Showcase Video](https://www.youtube.com/watch?v=phxSJLL2SBk&list=PLlOMM6QeJYidljJv8__rOHwEcKDZmR6vc&index=3)
 - [Keeper's Bloom Presentation Slides](https://docs.google.com/presentation/d/1D_gvG0g_po-jJcrD_xW-dYV6ihN43Yhv6KdVP-lbJlQ/edit?usp=sharing)
-- [Keeper's Bloom Engineering Drawing.pdf](https://drive.google.com/file/d/18fSM7QbdrcN2WmlMunvhszChDKPNnL-1/view?usp=sharing)
+- [Keeper's Bloom Engineering Drawing](https://drive.google.com/file/d/18fSM7QbdrcN2WmlMunvhszChDKPNnL-1/view?usp=sharing)
 
 ##### Warbling Whistle
 ![IMG_5450](https://github.com/user-attachments/assets/cde8288c-651a-40bc-a482-69ea6ad1ebd9)
@@ -132,15 +132,15 @@ This repository contains projects from undergraduate & graduate courses.
 - [Warbling Whitle Presentation Slides](https://docs.google.com/presentation/d/1AWAN94oLKhBgbdIeHEMrURzDRVb57CYygeX6Exs2_hY/edit?usp=sharing)
 
 #### 2. CS 231N (Deep Learning for Computer Vision)
+Studied DL methods for visual recognition tasks such as image classification and object detection; hands-on experience in training and debugging CNNs
 - [CS 231 Website](https://cs231n.stanford.edu/)
-- Studied DL methods for visual recognition tasks such as image classification and object detection; hands-on experience in training and debugging CNNs
 
 #### 3. ARMLANG 395 (3rd Year Armenian Language, Quarter 3)
 - [Vartouhe Kalantar Source before Translation](https://drive.google.com/file/d/1Ly9BftGX6OmYm99ae3z42FVFTcy61YdC/view?usp=sharing)
 
 #### Tsisternakaberd Monument
 <p align="center">
-  ![Nighttime Tsitsernakaberd](https://github.com/user-attachments/assets/e3b4d6f8-57a2-445a-8529-23a2eb514668)
+  <img width="1536" height="2048" alt="Nighttime Tsitsernakaberd" src="https://github.com/user-attachments/assets/ba4a838f-8ca3-4566-a9ce-31abbdf290f7" />
   <img width="382" height="570" alt="Message Tsitsernakaberd" src="https://github.com/user-attachments/assets/74f367ac-f5ea-4b3b-9d0b-9d6d8f67127c" />
 </p> 
 
@@ -189,8 +189,8 @@ Please refer to [this project's](https://drive.google.com/drive/u/0/folders/1U_p
 - Continued training golf advanced skills under Stanford club coaching
 
 #### 5. CS 224N (NLP with Deep Learning - Python)
+Explored neural network architectures for NLP tasks, including transformers and large language models, with practical implementation using PyTorch
 - [NLP Course Website](https://web.stanford.edu/class/cs224n/index.html)
-- Explored neural network architectures for NLP tasks, including transformers and large language models, with practical implementation using PyTorch
 ------
 
 ### Quarter 4
