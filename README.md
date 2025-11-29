@@ -20,7 +20,7 @@ This repository contains projects from undergraduate & graduate courses.
   - [CS 529 — Robotics & Autonomous Systems Seminar](#3-cs-529-robotics--autonomous-systems-seminar)
 
 - **Extracurriculars** (links to be inserted soon)
-  - Tsitsinakaberd Monument Replica
+  - [Tsitsernakaberd Monument Replica](tsitsernakaberd-monument)
   - Long Beach Rocketry (LBR)
     - 2022 - 2023
     - 2021 - 2022
@@ -138,10 +138,11 @@ Studied DL methods for visual recognition tasks such as image classification and
 #### 3. ARMLANG 395 (3rd Year Armenian Language, Quarter 3)
 - [Vartouhe Kalantar Source before Translation](https://drive.google.com/file/d/1Ly9BftGX6OmYm99ae3z42FVFTcy61YdC/view?usp=sharing)
 
-#### Tsisternakaberd Monument
+#### Tsitsernakaberd Monument
+Laser Cut, Slip-rolled, and assembled a replica of the [Tsitsernakaberd Monument](https://www.google.com/search?sca_esv=f5688d6b1e23e673&sxsrf=AE3TifO4M-dvb1tB2wwXwDoPdwdgpIWjfQ:1764400782406&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeqDdErwP5rACeJAty2zADJgYJpo1blvMpITBRgbnARM6y8KwxzRsF24u6g33NutBQod-bHaq-BaxULyF1bB2UqwqC_KRRdLkjFlrDQV-l3gDieAmZMkWuwaitIwon-RBD0kLLB2McdTIS7T6QoLEPs_QDlziji_cf7qQQmTW_oTtzu55rQ&q=tsitsernakaberd&sa=X&ved=2ahUKEwi3x4GP6ZaRAxXmIEQIHX5iCdsQtKgLegQIDRAB&biw=1672&bih=894&dpr=1).
 <p align="center">
   <img width="878" alt="Nighttime Tsitsernakaberd" src="https://github.com/user-attachments/assets/016f1bcf-bd72-47a1-ba9a-38e06b018a43" />
-  <img width="878"  alt="Message Tsitsernakaberd" src="https://github.com/user-attachments/assets/74f367ac-f5ea-4b3b-9d0b-9d6d8f67127c" />
+  <img width="700"  alt="Message Tsitsernakaberd" src="https://github.com/user-attachments/assets/74f367ac-f5ea-4b3b-9d0b-9d6d8f67127c" />
 </p> 
 
 ##### Tsitsernakaberd Videos
