@@ -141,7 +141,7 @@ Studied DL methods for visual recognition tasks such as image classification and
 #### Tsisternakaberd Monument
 <p align="center">
   <img width="878" alt="Nighttime Tsitsernakaberd" src="https://github.com/user-attachments/assets/016f1bcf-bd72-47a1-ba9a-38e06b018a43" />
-  <img width="382" height="570" alt="Message Tsitsernakaberd" src="https://github.com/user-attachments/assets/74f367ac-f5ea-4b3b-9d0b-9d6d8f67127c" />
+  <img width="878"  alt="Message Tsitsernakaberd" src="https://github.com/user-attachments/assets/74f367ac-f5ea-4b3b-9d0b-9d6d8f67127c" />
 </p> 
 
 ##### Tsitsernakaberd Videos
